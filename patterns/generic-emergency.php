@@ -2,7 +2,7 @@
 /**
  * Title: Generic Emergency
  * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/generic_emergency
- * Categories: eibc_event, eibc_generic_emergency
+ * Categories: eibc_event, eibc_generic
  *
  * @package Design-System-WordPress-Theme
  */
