@@ -3,7 +3,7 @@
 /**
  * Title: Aggregated Wildfire
  * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/aggregated-wildfire
- * Categories: Events
+ * Categories: bcgov_blocks_theme-wildfire
  *
  * @package Design-System-WordPress-Theme
  */
