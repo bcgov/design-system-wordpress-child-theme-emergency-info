@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Provincial State of Emergency
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/provincial_state_of_emergency
+ * Slug: design-system-wordpress-child-theme-emergency-info/provincial_state_of_emergency
  * Categories: eibc_event, eibc_provincial_state_of_emergency
  *
  * @package Design-System-WordPress-Theme

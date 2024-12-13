@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Volcano
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/volcano
+ * Slug: design-system-wordpress-child-theme-emergency-info/volcano
  * Categories: eibc_event, eibc_volcano
  *
  * @package Design-System-WordPress-Theme

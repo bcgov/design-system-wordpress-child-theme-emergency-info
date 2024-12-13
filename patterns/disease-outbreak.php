@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Disease Outbreak
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/disease-outbreak
+ * Slug: design-system-wordpress-child-theme-emergency-info/disease-outbreak
  * Categories: eibc_event, eibc_disease_outbreak
  *
  * @package Design-System-WordPress-Theme

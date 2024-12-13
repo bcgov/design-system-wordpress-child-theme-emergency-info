@@ -1,2 +1,2 @@
-# bcgov-wordpress-block-theme-child-theme-emergency-info
-bcgov-wordpress-block-theme-child-theme-emergency-info
+# design-system-wordpress-child-theme-emergency-info
+design-system-wordpress-child-theme-emergency-info

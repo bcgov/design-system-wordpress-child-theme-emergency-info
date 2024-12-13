@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Power Outage
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/power_outage
+ * Slug: design-system-wordpress-child-theme-emergency-info/power_outage
  * Categories: eibc_event, eibc_power_outage
  *
  * @package Design-System-WordPress-Theme
