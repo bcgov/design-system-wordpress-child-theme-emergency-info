@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hazardous Material Spill
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/hazardous_material_spill
+ * Slug: design-system-wordpress-child-theme-emergency-info/hazardous_material_spill
  * Categories: eibc_event, eibc_hazardous_material_spill
  *
  * @package Design-System-WordPress-Theme

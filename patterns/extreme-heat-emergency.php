@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Extreme Heat Emergency
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/extreme-heat-emergency
+ * Slug: design-system-wordpress-child-theme-emergency-info/extreme-heat-emergency
  * Categories: eibc_event, eibc_extreme_heat_emergency
  *
  * @package Design-System-WordPress-Theme

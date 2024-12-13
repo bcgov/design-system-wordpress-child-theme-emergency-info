@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Special Public Avalanche Warning
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/special-public-avalanche-warning
+ * Slug: design-system-wordpress-child-theme-emergency-info/special-public-avalanche-warning
  * Categories: eibc_event, eibc_avalanche
  *
  * @package Design-System-WordPress-Theme

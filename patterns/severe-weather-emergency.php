@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Severe Weather Emergency
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/severe-weather-emergency
+ * Slug: design-system-wordpress-child-theme-emergency-info/severe-weather-emergency
  * Categories: eibc_event, eibc_severe_weather
  *
  * @package Design-System-WordPress-Theme

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Severe Drought
- * Slug: bcgov-wordpress-block-theme-child-theme-emergency-info/severe-drought
+ * Slug: design-system-wordpress-child-theme-emergency-info/severe-drought
  * Categories: eibc_event, eibc_severe_drought
  *
  * @package Design-System-WordPress-Theme
