@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Earthquake Catastrophic
- * Slug: bcgov-wordpress-block-theme-child-theme--info/eibc_earthquake_catastrophic
+ * Slug: design-system-wordpress-child-theme-emergency-info/eibc_earthquake_catastrophic
  * Categories: eibc_event, eibc_earthquake
  *
  * @package Design-System-WordPress-Theme

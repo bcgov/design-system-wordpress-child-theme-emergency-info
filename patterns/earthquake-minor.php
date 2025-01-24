@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Earthquake Minor
- * Slug: bcgov-wordpress-block-theme-child-theme--info/eibc_earthquake_minor
+ * Slug: design-system-wordpress-child-theme-emergency-info/eibc_earthquake_minor
  * Categories: eibc_event, eibc_earthquake
  *
  * @package Design-System-WordPress-Theme

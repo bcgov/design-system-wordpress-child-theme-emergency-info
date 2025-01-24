@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Tsunami Catastrophic
- * Slug: bcgov-wordpress-block-theme-child-theme-info/tsunami-catastrophic
+ * Slug: design-system-wordpress-child-theme-emergency-info/tsunami-catastrophic
  * Categories: eibc_event, eibc_tsunami
  *
  * @package Design-System-WordPress-Theme
