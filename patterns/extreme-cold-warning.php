@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Extreme Cold Warning
- * Slug: bcgov-wordpress-block-theme-child-theme--info/extreme-cold-warning
+ * Slug: design-system-wordpress-child-theme-emergency-info/extreme-cold-warning
  * Categories: eibc_event, eibc_cold
  *
  * @package Design-System-WordPress-Theme

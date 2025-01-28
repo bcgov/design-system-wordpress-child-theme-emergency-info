@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "Design System Wordpress Child Theme Emergency Info",
+    "styles": {
+        "elements": {
+            "link": {
+                "color": {
+                    "text": "var(--dswp-typography-primary)"
+                },
+                "typography": {
+                    "textDecoration": "underline!important"
+                }
+            }
+        }
+    },
+    "settings": {
+        "typography": {
+            "defaultFontSizes": false,
+            "fontSizes": [
+                {
+                    "slug": "small",
+                    "size": "1.25rem",
+                    "name": "Small"
+                },
+                {
+                    "slug": "medium",
+                    "size": "1.5rem",
+                    "name": "Medium"
+                },
+                {
+                    "slug": "large",
+                    "size": "1.8rem",
+                    "name": "Large"
+                },
+                {
+                    "slug": "extra-large",
+                    "size": "2.16rem",
+                    "name": "Extra Large"
+                },
+                {
+                    "slug": "extra-extra-large",
+                    "size": "2.592rem",
+                    "name": "Extra Extra large"
+                }
+            ]
+        },
+        "custom": {
+            "all-bootstrap-blocks": {
+                "areoi-customize-options-enable-cssgrid": false
+            }
+        },
+        "spacing": {
+            "blockGap": null,
+            "customSpacingSize": true,
+            "spacingScale": {
+                "operator": "*",
+                "increment": 1.75,
+                "steps": 9,
+                "mediumStep": 1.5,
+                "unit": "rem"
+            }
+        },
+        "color": {
+            "defaultPalette": false,
+            "palette": [
+                {
+                    "slug": "primary-brand",
+                    "color": "var(--bcds-theme-primary-blue)",
+                    "name": "Primary (Brand)"
+                }
+            ]
+        }
+    }
+}
