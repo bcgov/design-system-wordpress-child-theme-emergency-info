@@ -1,0 +1,29 @@
+name: Linting
+
+on:
+  pull_request:
+    branches:
+      - development
+  workflow_dispatch:
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Validate Composer configuration
+        run: |
+          OUTPUT=$(composer validate --no-check-publish)
+          if grep -q 'ERROR' <<< "$OUTPUT"; then
+            exit 1
+          fi
+
+      - name: Lint PHP
+        run: |
+          composer phpcs
+
+      - name: Scan WordPress Patterns
+        run: |
+          composer scan-wp-patterns
