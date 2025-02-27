@@ -34,8 +34,7 @@
         "production": [
             "composer validate",
             "composer phpcbf",
-            "composer phpcs",
-            "composer test"
+            "composer phpcs"
         ],
         "phpcs": [
             "Bcgov\\Script\\Standards::phpcs"

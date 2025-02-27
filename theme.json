@@ -9,7 +9,7 @@
                     "text": "var(--dswp-typography-primary)"
                 },
                 "typography": {
-                    "textDecoration": "underline!important"
+                    "textDecoration": "underline"
                 }
             }
         }
@@ -48,17 +48,6 @@
         "custom": {
             "all-bootstrap-blocks": {
                 "areoi-customize-options-enable-cssgrid": false
-            }
-        },
-        "spacing": {
-            "blockGap": null,
-            "customSpacingSize": true,
-            "spacingScale": {
-                "operator": "*",
-                "increment": 1.75,
-                "steps": 9,
-                "mediumStep": 1.5,
-                "unit": "rem"
             }
         },
         "color": {
