@@ -13,9 +13,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Install Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: Install dependencies
         run: |
           composer install
+          npm ci
 
       - name: Validate Composer configuration
         run: |
@@ -27,6 +33,14 @@ jobs:
       - name: Lint PHP
         run: |
           composer phpcs
+
+      - name: Lint CSS
+        run: |
+          npm run lint:css
+
+      - name: Lint JS
+        run: |
+          npm run lint:js
 
       - name: Scan WordPress Patterns
         run: |
