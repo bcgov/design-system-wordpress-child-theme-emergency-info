@@ -39,6 +39,9 @@
         "phpcs": [
             "Bcgov\\Script\\Standards::phpcs"
         ],
+        "phpcs-allow-todo": [
+            "vendor/bin/phpcs -ps --standard=./vendor/bcgov/wordpress-utils/wordpress.xml  --exclude=Generic.Commenting.Todo --colors ./"
+        ],
         "phpcbf": [
             "Bcgov\\Script\\Standards::phpcbf"
         ],
