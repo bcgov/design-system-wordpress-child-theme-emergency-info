@@ -65,7 +65,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Extreme heat is expected from today to&nbsp;[insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people . </p>
+                    <p>Extreme heat is expected from today to [insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -73,7 +73,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Check on others to ensure they are safe. Learn more at test.vanity.blog.gov.bc.ca/embc/heat.&nbsp;</p>
+                    <p>Check on others to ensure they are safe.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -124,7 +124,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Extreme heat is expected from today to&nbsp;[insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people . </p>
+                    <p>Extreme heat is expected from today to [insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -132,7 +132,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Check on others to ensure they are safe. Learn more at test.vanity.blog.gov.bc.ca/embc/heat.&nbsp;</p>
+                    <p>Check on others to ensure they are safe.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -183,7 +183,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Extreme heat is expected from today to&nbsp;[insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people . </p>
+                    <p>Extreme heat is expected from today to [insert date]. Indoor temperatures higher than 31°C can cause injury or death for vulnerable people.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -191,7 +191,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p>Check on others to ensure they are safe. Learn more at test.vanity.blog.gov.bc.ca/embc/heat.&nbsp;</p>
+                    <p>Check on others to ensure they are safe.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -457,7 +457,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"border":{"radius":"10px"},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"borderColor":"support-gray-02","backgroundColor":"support-gray-02","className":"w-100","layout":{"type":"default"}} -->
-<div id="Warning-Map" class="wp-block-group w-100 has-border-color has-support-gray-02-border-color has-support-gray-02-background-color has-background" style="border-radius:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:cover {"url":"https://test.vanity.blog.gov.bc.ca/app/uploads/sites/2/2023/12/Extreme-cold-Map.png","id":53712,"dimRatio":0,"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":"10px"}},"className":"warning-map align-items-start"} -->
+<div id="Warning-Map" class="wp-block-group w-100 has-border-color has-support-gray-02-border-color has-support-gray-02-background-color has-background" style="border-radius:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:cover {"url":"https://www.emergencyinfobc.gov.bc.ca/app/uploads/sites/893/2023/12/Extreme-cold-Map.png","id":53712,"dimRatio":0,"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":"10px"}},"className":"warning-map align-items-start"} -->
     <div class="wp-block-cover warning-map align-items-start" style="border-radius:10px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-53712" alt="" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/extreme-cold-map.png' ); ?>" data-object-fit="cover" />
         <div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"border":{"radius":"10px"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"margin":{"bottom":"var:preset|spacing|20"}},"elements":{"link":{"color":{"text":"var:preset|color|text-color"}}}},"textColor":"text-color","layout":{"type":"constrained","justifyContent":"left","wideSize":"400px"}} -->
             <div class="wp-block-group has-text-color-color has-text-color has-link-color" style="border-radius:10px;margin-bottom:var(--wp--preset--spacing--20);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"default"}} -->

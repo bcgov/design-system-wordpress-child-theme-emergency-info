@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Aggregated Wildfire
- * Slug: design-system-wordpress-child-theme-emergency-info/aggregated-wildfire
+ * Slug: design-system-wordpress-child-theme-emergency-info/wildfire-aggregated
  * Categories: eibc_event, eibc_wildfire
  *
  * @package Design-System-WordPress-Theme
