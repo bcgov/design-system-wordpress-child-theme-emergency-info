@@ -2,7 +2,7 @@
 /**
  * Title: Extreme Cold Warning
  * Slug: design-system-wordpress-child-theme-emergency-info/extreme-cold-warning
- * Categories: eibc_event, eibc_cold
+ * Categories: event, extreme-cold
  *
  * @package Design-System-WordPress-Theme
  */

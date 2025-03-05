@@ -2,7 +2,7 @@
 /**
  * Title: Earthquake Minor
  * Slug: design-system-wordpress-child-theme-emergency-info/eibc_earthquake_minor
- * Categories: eibc_event, eibc_earthquake
+ * Categories: event, earthquake
  *
  * @package Design-System-WordPress-Theme
  */

@@ -2,7 +2,7 @@
 /**
  * Title: Regional Aggregated Wildfire
  * Slug: design-system-wordpress-child-theme-emergency-info/wildfire-regional
- * Categories: eibc_event, eibc_wildfire
+ * Categories: event, wildfire
  *
  * @package Design-System-WordPress-Theme
  */

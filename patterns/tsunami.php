@@ -2,7 +2,7 @@
 /**
  * Title: Tsunami
  * Slug: design-system-wordpress-child-theme-emergency-info/tsunami
- * Categories: eibc_event, eibc_tsunami
+ * Categories: event, tsunami
  *
  * @package Design-System-WordPress-Theme
  */

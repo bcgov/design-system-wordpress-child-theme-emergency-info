@@ -22,4 +22,9 @@ npm run build:production
 
 Patterns are stored in the `patterns/` directory as this allows WordPress to automatically load them as [Block Patterns](https://wordpress.com/support/wordpress-editor/block-pattern/). They are mainly used as a base template for Event pages of various Hazard Types, eg. when creating a Disease Outbreak event, the Disease Outbreak pattern should be inserted into the page and then its content edited according to the specifics of the event. Previously, the EIBC site used the [BCGov WordPress Block Theme](https://github.com/bcgov/bcgov-wordpress-block-theme)'s Custom Patterns for this purpose but in moving to this child theme we are using WordPress' built-in Patterns.
 
-Patterns should be assigned the correct categories based on the Hazard Type taxonomy term slugs they are meant for, eg. the Disease Outbreak pattern should be in the `event` and `disease-outbreak` categories (per the Disease Outbreak Hazard Type's slug).
+### Patern Categories
+To maintain consistency, pattern categories must match the hazard type slugs. When creating or updating a pattern:
+* Use `event` as the general category.
+* Assign an additional category that matches the hazard type slug, for example `disease-outbreak`.
+
+This ensures patterns align with hazard classifications used in the system.

@@ -2,7 +2,7 @@
 /**
  * Title: Special Public Avalanche Warning
  * Slug: design-system-wordpress-child-theme-emergency-info/special-public-avalanche-warning
- * Categories: eibc_event, eibc_avalanche
+ * Categories: event, avalanche
  *
  * @package Design-System-WordPress-Theme
  */

@@ -2,7 +2,7 @@
 /**
  * Title: Flood Evacuation
  * Slug: design-system-wordpress-child-theme-emergency-info/flood-evacuation
- * Categories: eibc_event, eibc_flood
+ * Categories: event, flood
  *
  * @package Design-System-WordPress-Theme
  */

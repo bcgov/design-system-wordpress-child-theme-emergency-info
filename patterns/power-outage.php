@@ -2,7 +2,7 @@
 /**
  * Title: Power Outage
  * Slug: design-system-wordpress-child-theme-emergency-info/power_outage
- * Categories: eibc_event, eibc_power_outage
+ * Categories: event, power-outage
  *
  * @package Design-System-WordPress-Theme
  */

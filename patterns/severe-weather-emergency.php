@@ -2,7 +2,7 @@
 /**
  * Title: Severe Weather Emergency
  * Slug: design-system-wordpress-child-theme-emergency-info/severe-weather-emergency
- * Categories: eibc_event, eibc_severe_weather
+ * Categories: event, severe-weather
  *
  * @package Design-System-WordPress-Theme
  */

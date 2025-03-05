@@ -2,7 +2,7 @@
 /**
  * Title: Extreme Heat Emergency
  * Slug: design-system-wordpress-child-theme-emergency-info/extreme-heat-emergency
- * Categories: eibc_event, eibc_extreme_heat_emergency
+ * Categories: event, extreme-heat
  *
  * @package Design-System-WordPress-Theme
  */
