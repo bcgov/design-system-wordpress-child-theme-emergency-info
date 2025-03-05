@@ -2,7 +2,7 @@
 /**
  * Title: Hazardous Material Spill
  * Slug: design-system-wordpress-child-theme-emergency-info/hazardous_material_spill
- * Categories: eibc_event, eibc_hazardous_material_spill
+ * Categories: event, hazardous-material-spill
  *
  * @package Design-System-WordPress-Theme
  */

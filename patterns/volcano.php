@@ -2,7 +2,7 @@
 /**
  * Title: Volcano
  * Slug: design-system-wordpress-child-theme-emergency-info/volcano
- * Categories: eibc_event, eibc_volcano
+ * Categories: event, volcano
  *
  * @package Design-System-WordPress-Theme
  */

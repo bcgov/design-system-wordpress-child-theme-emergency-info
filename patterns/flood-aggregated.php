@@ -2,7 +2,7 @@
 /**
  * Title: Aggregated Flooding
  * Slug: design-system-wordpress-child-theme-emergency-info/flood-aggregated
- * Categories: eibc_event, eibc_flood
+ * Categories: event, flood
  *
  * @package Design-System-WordPress-Theme
  */

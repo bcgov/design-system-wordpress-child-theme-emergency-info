@@ -2,7 +2,7 @@
 /**
  * Title: Amber Alert
  * Slug: design-system-wordpress-child-theme-emergency-info/amber-alert
- * Categories: eibc_event, eibc_amber-alert
+ * Categories: event, amber-alert
  *
  * @package Design-System-WordPress-Theme
  */

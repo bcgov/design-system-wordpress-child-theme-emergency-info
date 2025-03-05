@@ -2,7 +2,7 @@
 /**
  * Title: Landslide
  * Slug: design-system-wordpress-child-theme-emergency-info/landslide
- * Categories: eibc_event, eibc_landslide
+ * Categories: event, landslide
  *
  * @package Design-System-WordPress-Theme
  */

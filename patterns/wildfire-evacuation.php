@@ -2,7 +2,7 @@
 /**
  * Title: Wildfire Evacuation Alert/Order
  * Slug: design-system-wordpress-child-theme-emergency-info/wildfire-evacuation
- * Categories: eibc_event, eibc_wildfire
+ * Categories: event, wildfire
  *
  * @package Design-System-WordPress-Theme
  */

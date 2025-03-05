@@ -2,7 +2,7 @@
 /**
  * Title: Generic Emergency
  * Slug: design-system-wordpress-child-theme-emergency-info/generic_emergency
- * Categories: eibc_event, eibc_generic
+ * Categories: event, generic
  *
  * @package Design-System-WordPress-Theme
  */

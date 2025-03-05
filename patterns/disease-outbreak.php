@@ -2,7 +2,7 @@
 /**
  * Title: Disease Outbreak
  * Slug: design-system-wordpress-child-theme-emergency-info/disease-outbreak
- * Categories: eibc_event, eibc_disease_outbreak
+ * Categories: event, disease-outbreak
  *
  * @package Design-System-WordPress-Theme
  */

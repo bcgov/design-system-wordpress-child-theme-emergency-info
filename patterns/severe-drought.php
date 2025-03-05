@@ -2,7 +2,7 @@
 /**
  * Title: Severe Drought
  * Slug: design-system-wordpress-child-theme-emergency-info/severe-drought
- * Categories: eibc_event, eibc_severe_drought
+ * Categories: event, drought
  *
  * @package Design-System-WordPress-Theme
  */

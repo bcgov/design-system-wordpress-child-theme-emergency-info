@@ -2,7 +2,7 @@
 /**
  * Title: Provincial Aggregated Wildfire
  * Slug: design-system-wordpress-child-theme-emergency-info/wildfire-provincial
- * Categories: eibc_event, eibc_wildfire
+ * Categories: event, wildfire
  *
  * @package Design-System-WordPress-Theme
  */

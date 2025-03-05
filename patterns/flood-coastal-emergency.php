@@ -2,7 +2,7 @@
 /**
  * Title: Coastal Flooding Emergency
  * Slug: design-system-wordpress-child-theme-emergency-info/flood-coastal-emergency
- * Categories: eibc_event, eibc_flood
+ * Categories: event, coastal-flood
  *
  * @package Design-System-WordPress-Theme
  */

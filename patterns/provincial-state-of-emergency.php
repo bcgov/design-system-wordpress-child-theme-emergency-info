@@ -2,7 +2,7 @@
 /**
  * Title: Provincial State of Emergency
  * Slug: design-system-wordpress-child-theme-emergency-info/provincial_state_of_emergency
- * Categories: eibc_event, eibc_provincial_state_of_emergency
+ * Categories: event, provincial-state-of-emergency
  *
  * @package Design-System-WordPress-Theme
  */

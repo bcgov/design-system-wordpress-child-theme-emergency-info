@@ -2,7 +2,7 @@
 /**
  * Title: Emergency Alert
  * Slug: design-system-wordpress-child-theme-emergency-info/emergency-alert
- * Categories: eibc_event, eibc_emergency-alert
+ * Categories: event, emergency-alert
  *
  * @package Design-System-WordPress-Theme
  */
