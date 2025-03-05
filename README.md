@@ -28,3 +28,13 @@ To maintain consistency, pattern categories must match the hazard type slugs. Wh
 * Assign an additional category that matches the hazard type slug, for example `disease-outbreak`.
 
 This ensures patterns align with hazard classifications used in the system.
+
+## Templates
+All the [templates](https://developer.wordpress.org/themes/templates/template-hierarchy/) are found under the `/templates` folder as designated from WordPress folder structure.
+
+- front-page.html - used for the homepage (front page), when this template is used, there is no way of updating the homepage template. 
+- page-no-title - this is to be used to give full freedom of the page creation, without an automatic title placement.
+- page-without-excerpt.html - This is used for secondary pages that don't want excerpt information in the blue page header.
+- page.html - Typically used for all secondary pages, it has page title, and excerpt in blue header.
+- single-event.html - Used for Event post type.
+- single-post.html - Used for Post post type (default), this has an alert which indicates these are old events, and are not being updated.
