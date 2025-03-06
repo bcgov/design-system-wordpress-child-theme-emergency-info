@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Power Outage
- * Slug: design-system-wordpress-child-theme-emergency-info/power_outage
+ * Slug: design-system-wordpress-child-theme-emergency-info/power-outage
  * Categories: event, power-outage
  *
  * @package Design-System-WordPress-Theme

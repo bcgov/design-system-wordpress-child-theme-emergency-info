@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Generic Emergency
- * Slug: design-system-wordpress-child-theme-emergency-info/generic_emergency
+ * Slug: design-system-wordpress-child-theme-emergency-info/generic-emergency
  * Categories: event, generic
  *
  * @package Design-System-WordPress-Theme

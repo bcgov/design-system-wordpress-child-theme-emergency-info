@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hazardous Material Spill
- * Slug: design-system-wordpress-child-theme-emergency-info/hazardous_material_spill
+ * Slug: design-system-wordpress-child-theme-emergency-info/hazardous-material-spill
  * Categories: event, hazardous-material-spill
  *
  * @package Design-System-WordPress-Theme
