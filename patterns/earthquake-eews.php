@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Title: Earthquake (Earthquake Early Warning System automated)
  * Slug: design-system-wordpress-child-theme-emergency-info/earthquake-eews
