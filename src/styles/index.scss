@@ -13,3 +13,8 @@ body {
     --wp--preset--spacing--70: 6rem;
     --wp--preset--spacing--80: 7rem;
 }
+
+// Fix for lack of padding in the navigation mega-menu.
+.wp-block-navigation__responsive-container {
+    padding: var(--wp--preset--spacing--20) !important;
+}
