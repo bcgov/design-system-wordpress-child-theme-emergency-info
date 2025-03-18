@@ -128,8 +128,8 @@
                         <li><a href="https://twitter.com/hashtag/bcwildfire" title="">#BCWildfire</a>&nbsp;</li>
                         <!-- /wp:list-item -->
 
-                        <!-- wp:list-item {"style":{"typography":{"lineHeight":"1"}}} -->
-                        <li style="line-height:1"><a href="https://twitter.com/hashtag/bcemergencyalert" title="">#BCEmergencyAlert</a>&nbsp;</li>
+                        <!-- wp:list-item -->
+                        <li><a href="https://twitter.com/hashtag/bcemergencyalert" title="">#BCEmergencyAlert</a>&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -143,8 +143,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"lineHeight":"0"}}} -->
-                        <li style="line-height:0"><a href="https://www2.gov.bc.ca/gov/content?id=AD63768577B74F0D865B249B9CFC1A49" title="">Get prepared for wildfires</a>&nbsp;</li>
+                    <ul class="wp-block-list"><!-- wp:list-item -->
+                        <li><a href="https://www2.gov.bc.ca/gov/content?id=AD63768577B74F0D865B249B9CFC1A49" title="">Get prepared for wildfires</a>&nbsp;</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
