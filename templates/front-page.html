@@ -1,16 +1,57 @@
+<!--
+    This HTML template is used to structure the front page of the Emergency Info BC website.
+    It includes various sections such as the header, main content area, and footer.
+
+    Parameters:
+    - slug: The unique identifier for the template part, used to include specific sections like header or footer.
+    - theme: The theme name that the template part belongs to, ensuring consistency in design and functionality.
+    - area: The designated area of the template part, such as 'header' or 'footer', to organize content layout.
+
+    Return Value:
+    - The HTML structure for the front page, which includes styled groups, images, headings, and links to provide emergency information and updates.
+-->
 <!-- wp:template-part {"slug":"header","theme":"design-system-wordpress-child-theme-emergency-info","area":"header"} /-->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0">
-    <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
-    <div class="wp-block-group" style="margin-top:0;margin-bottom:0">
-        <!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"},"margin":{"bottom":"3rem"}}},"backgroundColor":"primary-brand","textColor":"background-white","layout":{"type":"constrained","justifyContent":"center"}} -->
-        <div class="wp-block-group has-background-white-color has-primary-brand-background-color has-text-color has-background" style="margin-bottom:3rem;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
-        <!-- wp:post-title {"level":1} /-->
-    </div>
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","left":"2rem","right":"2rem","bottom":"2rem"},"margin":{"bottom":"2rem"}}},"backgroundColor":"primary-brand","textColor":"background-white","layout":{"type":"constrained","justifyContent":"center"}} -->
+    <div class="wp-block-group has-background-white-color has-primary-brand-background-color has-text-color has-background" style="margin-bottom:2rem;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:post-title {"level":1,"style":{"spacing":{"padding":{"bottom":"0","right":"0","top":"0","left":"0"}}},"textColor":"background-white"} /--></div>
     <!-- /wp:group -->
-    <!-- wp:post-content {"layout":{"type":"default"}} /-->
-</div>
-<!-- /wp:group -->
 
-<!-- wp:template-part {"slug":"footer","theme":"design-system-wordpress-child-theme-emergency-info","area":"footer"} /-->   
+    <!-- wp:group {"backgroundColor":"typography-primary-color","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-typography-primary-color-background-color has-background"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0rem","bottom":"0rem","left":"0rem","right":"0rem"}},"dimensions":{"minHeight":"255px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+    <div class="wp-block-group" style="min-height:255px;padding-top:0rem;padding-right:0rem;padding-bottom:0rem;padding-left:0rem"><!-- wp:group {"className":"alignwide","style":{"border":{"radius":"8px","left":{"color":"#F8BA47","width":"8px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"background-white","textColor":"text-color","layout":{"type":"constrained","contentSize":"400px"}} -->
+    <div class="wp-block-group alignwide has-text-color-color has-background-white-background-color has-text-color has-background" style="border-radius:8px;border-left-color:#F8BA47;border-left-width:8px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":1,"className":"eibc-branding-h1 d-none"} -->
+    <h1 class="wp-block-heading eibc-branding-h1 d-none" id="emergencyinfo-span-bc-span">EmergencyInfo<span>BC</span></h1>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"id":35047,"width":"384px","height":"74px","sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full is-resized"><img src="https://test.vanity.blog.gov.bc.ca/app/uploads/sites/1422/2023/05/EmergencyInfoBC-768x147-1.png" alt="Emergency Info BC Logo" class="wp-image-35047" style="width:384px;height:74px" title=""/></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph {"textColor":"text-color"} -->
+    <p class="has-text-color-color has-text-color">Find current and official information during emergencies in B.C. </p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+    <div class="wp-block-group"><!-- wp:areoi/icon {"block_id":"17e03d35-2a49-4304-93fc-5211626aafc8","style":"text-dark","icon":"bi-link"} -->
+    <div class="wp-block-areoi-icon areoi-icon"><i class="text-dark bi-link " style="font-size:24px"></i></div>
+    <!-- /wp:areoi/icon -->
+
+    <!-- wp:paragraph {"style":{"typography":{"fontSize":"1rem"}}} -->
+    <p style="font-size:1rem">Follow <a href="https://twitter.com/EmergencyInfoBC" title="">@EmergencyInfoBC</a> on X (Twitter) for updates.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:group --></div>
+    <!-- /wp:group -->
+
+    <!-- wp:cover {"url":"https://test.vanity.blog.gov.bc.ca/app/uploads/sites/1422/2024/07/home-page-banner.png","id":64842,"dimRatio":0,"focalPoint":{"x":0.41,"y":0.08},"minHeight":255,"minHeightUnit":"px","style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained","contentSize":"500px"}} -->
+    <div class="wp-block-cover" style="min-height:255px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-64842" alt="" src="https://test.vanity.blog.gov.bc.ca/app/uploads/sites/1422/2024/07/home-page-banner.png" style="object-position:41% 8%" data-object-fit="cover" data-object-position="41% 8%"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+    <p class="has-text-align-center has-large-font-size"></p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:cover --></div>
+    <!-- /wp:group --></div>
+    <!-- /wp:group -->
+
+    <!-- wp:post-content {"layout":{"type":"default"}} /--></div>
+    <!-- /wp:group -->
+
+    <!-- wp:template-part {"slug":"footer","theme":"design-system-wordpress-child-theme-emergency-info","area":"footer"} /-->
