@@ -8,8 +8,8 @@
  */
 ?>
 
-<!-- wp:group {"metadata":{"name":"BC Gov footer"},"className":"bcgov-footer-container","style":{"typography":{"fontSize":"0.88rem"},"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"elements":{"link":{"color":{"text":"var:preset|color|text-color"},":hover":{"color":{"text":"var:preset|color|gray-80"}}}}},"backgroundColor":"accent","layout":{"type":"constrained"}} -->
-<div class="wp-block-group bcgov-footer-container has-accent-background-color has-background has-link-color" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem;font-size:0.88rem"><!-- wp:columns {"verticalAlignment":"top"} -->
+<!-- wp:group {"metadata":{"name":"BC Gov footer"},"className":"bcgov-footer-container","style":{"typography":{"fontSize":"0.88rem"},"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"elements":{"link":{"color":{"text":"var:preset|color|text-color"},":hover":{"color":{"text":"var:preset|color|gray-80"}}}}},"backgroundColor":"support-gray-00","layout":{"type":"constrained"}} -->
+<div class="wp-block-group bcgov-footer-container has-support-gray-00-background-color has-background has-link-color" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem;font-size:0.88rem"><!-- wp:columns {"verticalAlignment":"top"} -->
     <div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"100%","style":{"spacing":{"padding":{"right":"0","left":"0","bottom":"var:preset|spacing|20"},"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"600px","justifyContent":"left"}} -->
         <div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0;flex-basis:100%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
             <div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--20)">

@@ -2,6 +2,13 @@
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
     "title": "Design System Wordpress Child Theme Emergency Info",
+    "templateParts": [
+		{
+			"area": "uncategorized",
+			"name": "top-banner",
+			"title": "Top Banner"
+		}
+    ],
     "styles": {
         "elements": {
             "link": {
