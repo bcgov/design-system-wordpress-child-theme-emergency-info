@@ -42,10 +42,10 @@
         </div>
         <!-- /wp:group -->
 
-        <!-- wp:cover {"url":"<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner' ); ?>","id":64842,"dimRatio":0,"focalPoint":{"x":0.41,"y":0.08},"minHeight":255,"minHeightUnit":"px","style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained","contentSize":"500px"}} -->
+        <!-- wp:cover {"url":"<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner.png' ); ?>","id":64842,"dimRatio":0,"focalPoint":{"x":0.41,"y":0.08},"minHeight":255,"minHeightUnit":"px","style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained","contentSize":"500px"}} -->
         <div class="wp-block-cover" style="min-height:255px">
             <span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span>
-            <img class="wp-block-cover__image-background wp-image-64842" alt="" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner' ); ?>" style="object-position:41% 8%" data-object-fit="cover" data-object-position="41% 8%" />
+            <img class="wp-block-cover__image-background wp-image-64842" alt="" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner.png' ); ?>" style="object-position:41% 8%" data-object-fit="cover" data-object-position="41% 8%" />
             <div class="wp-block-cover__inner-container">
                 <!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
                 <p class="has-text-align-center has-large-font-size"></p>
