@@ -18,3 +18,8 @@ body {
 .wp-block-navigation__responsive-container {
     padding: var(--wp--preset--spacing--20) !important;
 }
+
+// Fix for lack of padding between icons and labels.
+.areoi-icon {
+    margin-right: 0.5em !important;
+}

@@ -12,12 +12,12 @@
 <div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"layout":{"type":"default"}} -->
     <div class="wp-block-group"><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
-            <div class="wp-block-group"><!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="seasonal-hazards">Seasonal Hazards</h2>
+            <div class="wp-block-group"><!-- wp:heading {"className":"is-style-heading-callout"} -->
+                <h2 class="wp-block-heading is-style-heading-callout" id="seasonal-hazards">Seasonal Hazards</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:areoi/accordion {"anchor":"","block_id":"a7a415b2-3343-4770-a074-021d7c4f56e0"} -->
-                <!-- wp:areoi/accordion-item {"block_id":"51eded4a-a461-45fb-a8cb-081f7b41fbc4","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"Floods","open":true} -->
+                <!-- wp:areoi/accordion-item {"block_id":"51eded4a-a461-45fb-a8cb-081f7b41fbc4","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"Floods"} -->
                 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group has-white-background-color has-background" style="margin-top:var(--wp--preset--spacing--20);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph -->
                     <p><strong>Icon:</strong>&nbsp;</p>
@@ -334,8 +334,12 @@
                 <!-- /wp:areoi/accordion-item -->
                 <!-- /wp:areoi/accordion -->
 
-                <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="year-round-hazards">Year-round Hazards</h2>
+                <!-- wp:spacer {"height":"20px"} -->
+                <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+                <!-- /wp:spacer -->
+
+                <!-- wp:heading {"className":"is-style-heading-callout"} -->
+                <h2 class="wp-block-heading is-style-heading-callout" id="year-round-hazards">Year-round Hazards</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:areoi/accordion {"block_id":"c8386ce6-fe27-4a41-8538-8d3011603c9b"} -->

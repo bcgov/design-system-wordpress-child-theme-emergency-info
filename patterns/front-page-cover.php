@@ -18,9 +18,9 @@
             <h1 class="wp-block-heading eibc-branding-h1 d-none" id="emergencyinfo-span-bc-span">EmergencyInfo<span>BC</span></h1>
             <!-- /wp:heading -->
 
-            <!-- wp:image {"id":35047,"width":"384px","height":"74px","sizeSlug":"full","linkDestination":"none"} -->
+            <!-- wp:image {"id":35047,"width":"384px","sizeSlug":"full","linkDestination":"none"} -->
             <figure class="wp-block-image size-full is-resized">
-                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/EmergencyInfoBC-768x147-1.png' ); ?>" alt="Emergency Info BC Logo" class="wp-image-35047" style="width:384px;height:74px" title="" />
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/EmergencyInfoBC-768x147-1.png' ); ?>" alt="Emergency Info BC Logo" class="wp-image-35047" style="width:384px" title="" />
             </figure>
             <!-- /wp:image -->
 
@@ -42,8 +42,8 @@
         </div>
         <!-- /wp:group -->
 
-        <!-- wp:cover {"url":"<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner.png' ); ?>","id":64842,"dimRatio":0,"focalPoint":{"x":0.41,"y":0.08},"minHeight":255,"minHeightUnit":"px","style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained","contentSize":"500px"}} -->
-        <div class="wp-block-cover" style="min-height:255px">
+        <!-- wp:cover {"url":"<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner.png' ); ?>","id":64842,"dimRatio":0,"focalPoint":{"x":0.41,"y":0.08},"minHeight":255,"minHeightUnit":"px","className":"d-none d-md-block","style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained","contentSize":"500px"}} -->
+        <div class="wp-block-cover d-none d-md-block" style="min-height:255px">
             <span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span>
             <img class="wp-block-cover__image-background wp-image-64842" alt="" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/home-page-banner.png' ); ?>" style="object-position:41% 8%" data-object-fit="cover" data-object-position="41% 8%" />
             <div class="wp-block-cover__inner-container">
