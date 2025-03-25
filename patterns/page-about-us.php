@@ -14,9 +14,7 @@
     <div class="wp-block-group"><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
-            <div class="wp-block-group"><!-- wp:heading {"level":1,"className":"is-style-alphagov-heading is-style-heading-callout","style":{"typography":{"fontSize":"2.25rem"}}} -->
-                <h1 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="about-emergencyinfobc" style="font-size:2.25rem">About EmergencyInfoBC</h1>
-                <!-- /wp:heading -->
+            <div class="wp-block-group">
 
                 <!-- wp:paragraph -->
                 <p>The EmergencyInfoBC website helps people find current and official information about:</p>
@@ -68,24 +66,24 @@
                 <p><a href="http://civicinfo.bc.ca/directories" title="">Contact your local authority</a>&nbsp;for more detailed and local emergency information. Your local authority may include your regional district, municipality or First Nation.</p>
                 <!-- /wp:paragraph -->
 
-                <!-- wp:spacer {"height":"50px"} -->
-                <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+                <!-- wp:spacer {"height":"20px"} -->
+                <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
 
-                <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout","style":{"typography":{"fontSize":"1.88rem"}}} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="social-media" style="font-size:1.88rem">Social media</h2>
+                <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
+                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="social-media">Social media</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph -->
                 <p><a href="https://twitter.com/EmergencyInfoBC" title="">Follow @EmergencyInfoBC on X</a> (Twitter) for updates.</p>
                 <!-- /wp:paragraph -->
 
-                <!-- wp:spacer {"height":"50px"} -->
-                <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+                <!-- wp:spacer {"height":"20px"} -->
+                <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
 
-                <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout","style":{"typography":{"fontSize":"1.88rem"}}} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="media-contacts" style="font-size:1.88rem">Media contacts</h2>
+                <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
+                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="media-contacts">Media contacts</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph -->
