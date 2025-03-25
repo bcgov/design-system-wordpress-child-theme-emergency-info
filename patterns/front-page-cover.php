@@ -20,7 +20,7 @@
 
             <!-- wp:image {"id":35047,"width":"384px","sizeSlug":"full","linkDestination":"none"} -->
             <figure class="wp-block-image size-full is-resized">
-                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/EmergencyInfoBC-768x147-1.png' ); ?>" alt="Emergency Info BC Logo" class="wp-image-35047" style="width:384px" title="" />
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/eibc-logo.png' ); ?>" alt="Emergency Info BC Logo" class="wp-image-35047" style="width:384px" title="" />
             </figure>
             <!-- /wp:image -->
 
