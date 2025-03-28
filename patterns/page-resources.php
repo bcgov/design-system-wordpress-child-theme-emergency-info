@@ -39,7 +39,7 @@
                         <!-- /wp:paragraph -->
 
                         <!-- wp:paragraph -->
-                        <p>BC <span style="font-size: clamp(var(--wp--preset--font-size--normal), 1rem + ((1vw - 0.48rem) * 0.481), 1.25rem)">Emergency Alerts are issued using the </span><a href="https://www.alertready.ca/" title="">Alert Ready</a><span style="font-size: clamp(var(--wp--preset--font-size--normal), 1rem + ((1vw - 0.48rem) * 0.481), 1.25rem)"> system. This system allows provinces and territories to issue emergency alerts through television, radio and wireless devices.</span> </p>
+                        <p>BC Emergency Alerts are issued using the <a href="https://www.alertready.ca/" title="">Alert Ready</a> system. This system allows provinces and territories to issue emergency alerts through television, radio and wireless devices.</p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -78,7 +78,7 @@
                         <!-- /wp:paragraph -->
 
                         <!-- wp:paragraph -->
-                        <p>Be ready to leave on short notice. If you leave before or during this alert, it’s called a voluntary evacuation.</p>
+                        <p>Be ready to leave on short notice. If you leave before or during this alert, it's called a voluntary evacuation.</p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -164,7 +164,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94" title="">PreparedBC</a> is British Columbia’s emergency preparedness education program serving individuals, Indigenous and local governments, communities and schools. Follow PreparedBC on Facebook, X. and Instagram.</p>
+                    <p><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94" title="">PreparedBC</a> is British Columbia's emergency preparedness education program serving individuals, Indigenous and local governments, communities and schools. Follow PreparedBC on Facebook, X. and Instagram.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
