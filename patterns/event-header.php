@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Title: Event Header
  * Slug: design-system-wordpress-child-theme-emergency-info/event-header
