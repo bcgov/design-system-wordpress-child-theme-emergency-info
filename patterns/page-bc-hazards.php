@@ -94,7 +94,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable " title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -166,7 +166,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation%22%EF%BF%BDHYPERLINK%20%22https://weather.gc.ca/?alertTableFilterProv=BC#alerttable " title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation%22%EF%BF%BDHYPERLINK%20%22https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -260,7 +260,7 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable " title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
