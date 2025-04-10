@@ -13,7 +13,7 @@
     <div class="wp-block-group"><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
             <div class="wp-block-group"><!-- wp:heading {"className":"is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-heading-callout" id="seasonal-hazards">Seasonal Hazards</h2>
+                <h2 class="wp-block-heading is-style-heading-callout" id="seasonal-hazards">Seasonal hazards</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:areoi/accordion {"anchor":"","block_id":"a7a415b2-3343-4770-a074-021d7c4f56e0"} -->
@@ -94,7 +94,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://weather.gc.ca/warnings/index_e.html?prov=bc" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -166,7 +166,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation%22%EF%BF%BDHYPERLINK%20%22https://weather.gc.ca/warnings/index_e.html?prov=bc" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation%22%EF%BF%BDHYPERLINK%20%22https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -260,7 +260,7 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="https://weather.gc.ca/warnings/index_e.html?prov=bc" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
+                        <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable" title="">Environment and Climate Change Canada</a> (public weather alerts)&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -339,7 +339,7 @@
                 <!-- /wp:spacer -->
 
                 <!-- wp:heading {"className":"is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-heading-callout" id="year-round-hazards">Year-round Hazards</h2>
+                <h2 class="wp-block-heading is-style-heading-callout" id="year-round-hazards">Year-round hazards</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:areoi/accordion {"block_id":"c8386ce6-fe27-4a41-8538-8d3011603c9b"} -->
@@ -696,11 +696,11 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="https://www.bchydro.com/power-outages/app/outage-map.html" title="">BC Hydro Outage map</a>&nbsp;</li>
+                        <li><a href="https://www.bchydro.com/power-outages/app/outage-map.html" title="">BC Hydro outage map</a>&nbsp;</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://outages.fortisbc.com/Outages" title="">FortisBC Outage map</a>&nbsp;</li>
+                        <li><a href="https://outages.fortisbc.com/Outages" title="">FortisBC outage map</a>&nbsp;</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->

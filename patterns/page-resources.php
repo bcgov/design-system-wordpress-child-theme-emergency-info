@@ -17,11 +17,11 @@
 
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
                 <div class="wp-block-group"><!-- wp:heading {"className":"is-style-heading-callout"} -->
-                    <h2 class="wp-block-heading is-style-heading-callout" id="key-terms">Key Terms</h2>
+                    <h2 class="wp-block-heading is-style-heading-callout" id="key-terms">Key terms</h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:areoi/accordion {"anchor":"","block_id":"a7a415b2-3343-4770-a074-021d7c4f56e0"} -->
-                    <!-- wp:areoi/accordion-item {"block_id":"51eded4a-a461-45fb-a8cb-081f7b41fbc4","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"BC Emergency Alert","open":true} -->
+                    <!-- wp:areoi/accordion-item {"block_id":"51eded4a-a461-45fb-a8cb-081f7b41fbc4","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"BC Emergency Alert"} -->
                     <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"constrained","justifyContent":"left"}} -->
                     <div class="wp-block-group has-white-background-color has-background" style="margin-top:var(--wp--preset--spacing--20);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph -->
                         <p><strong>Icon:</strong></p>
@@ -39,7 +39,7 @@
                         <!-- /wp:paragraph -->
 
                         <!-- wp:paragraph -->
-                        <p>BC Emergency Alerts are issued using the <a href="https://www.alertready.ca/" title="">Alert Ready</a> system. This system allows provinces and territories to issue emergency alerts through television, radio and wireless devices.</p>
+                        <p>BC Emergency Alerts are issued using the <a href="https://www.alertready.ca/" title="">Alert Ready</a> system. This system enables provinces and territories to issue emergency alerts through television, radio and wireless devices.</p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -164,7 +164,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94" title="">PreparedBC</a> is British Columbia's emergency preparedness education program serving individuals, Indigenous and local governments, communities and schools. Follow PreparedBC on Facebook, X. and Instagram.</p>
+                    <p><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94" title="">PreparedBC</a> is British Columbia's emergency preparedness education program serving individuals, Indigenous and local governments, communities and schools. Follow PreparedBC on Facebook, X, and Instagram.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
