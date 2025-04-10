@@ -17,7 +17,7 @@
             <div class="wp-block-group">
 
                 <!-- wp:paragraph -->
-                <p>The personal information you post may be collected by the Emergency Management and Climate Readiness under s. 26(c) of the Freedom of Information and Protection of Privacy Act for the purposes of engaging and consulting with the public. Please be aware that any information collected may be stored and/or accessed outside of Canada on servers not belonging to the government.</p>
+                <p>The personal information you post may be collected by the Ministry of Emergency Management and Climate Readiness under s. 26(c) of the Freedom of Information and Protection of Privacy Act for the purposes of engaging and consulting with the public. Please be aware that any information collected may be stored and/or accessed outside of Canada on servers not belonging to the government.</p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->

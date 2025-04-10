@@ -40,7 +40,7 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->
-                <p>EmergencyInfoBC is directed by the <a href="https://www2.gov.bc.ca/gov/content?id=927BDE69092E469BB4C4DC3AF4FD109E" title="">Ministry of Emergency Management and Climate Readiness</a>. This ministry is the province’s lead coordinating agency for all disaster management activities, including emergency:</p>
+                <p>EmergencyInfoBC is operated by the <a href="https://www2.gov.bc.ca/gov/content?id=927BDE69092E469BB4C4DC3AF4FD109E" title="">Ministry of Emergency Management and Climate Readiness</a>. This ministry is the province’s lead coordinating agency for all disaster management activities, including emergency:</p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:list -->
@@ -91,7 +91,7 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->
-                <p>For media contact information organized by Ministry, visit the <a href="https://news.gov.bc.ca/contacts" title="">Government Communications and Public Engagement Contact List for Media</a>. </p>
+                <p>For media contact information organized by ministry, visit the <a href="https://news.gov.bc.ca/contacts" title="">Government Communications and Public Engagement Contact List for Media</a>. </p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:list -->
