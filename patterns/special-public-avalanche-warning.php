@@ -97,8 +97,8 @@
                 <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-exclamation-circle " style="font-size:36px"></i></div>
                 <!-- /wp:areoi/icon -->
 
-                <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
-                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong><strong>Areas of Impact</strong></strong></h2>
+                <!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
+                <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Areas of impact</h2>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -136,7 +136,7 @@
                 <!-- /wp:areoi/icon -->
 
                 <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
-                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong><strong>Special Public Avalanche Warning</strong></strong></h2>
+                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>Special Public Avalanche Warning</strong></h2>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->

@@ -33,7 +33,7 @@
         <div class="wp-block-group" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
             <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group"><!-- wp:heading {"lock":{"move":false,"remove":false},"style":{"typography":{"fontSize":"1.88rem"}}} -->
-                    <h2 class="wp-block-heading" style="font-size:1.88rem">BC Emergency Alert Message</h2>
+                    <h2 class="wp-block-heading" style="font-size:1.88rem">BC Emergency Alert message</h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->

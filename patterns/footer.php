@@ -82,7 +82,7 @@
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"0"},"margin":{"top":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
     <div class="wp-block-group" style="margin-top:0;padding-top:0"><!-- wp:paragraph {"align":"left","style":{"spacing":{"padding":{"top":"0.5rem","left":"0rem"}}},"textColor":"text-color"} -->
         <p class="has-text-align-left has-text-color-color has-text-color" style="padding-top:0.5rem;padding-left:0rem">
-            © 2025 Government of British Columbia.</p>
+            © 2025 Government of British Columbia</p>
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->

@@ -149,7 +149,7 @@
                 <!-- /wp:areoi/icon -->
 
                 <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
-                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>Evacuation [Order/Alert]</strong></h2>
+                <h2 class="wp-block-heading" style="font-size:1.38rem">Evacuation [Order/Alert]</h2>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
