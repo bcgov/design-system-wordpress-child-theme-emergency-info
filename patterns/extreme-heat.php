@@ -18,7 +18,7 @@
         <!-- wp:post-excerpt /-->
 
         <!-- wp:paragraph -->
-        <p><strong>Heat</strong> Warning[s]</strong>&nbsp;have been issued by&nbsp;Environment and Climate Change Canada&nbsp;for&nbsp;[areas in the following regions/ multiple areas]&nbsp;of BC. </p>
+        <p><strong>Heat Warning(s)</strong> have been issued by Environment and Climate Change Canada for [areas in the following regions/multiple areas] of BC.</p>
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->
@@ -381,10 +381,6 @@
                     <div class="wp-block-group"><!-- wp:areoi/icon {"block_id":"a410e022-07a3-4fe0-97c9-1bc83807f3fe","style":"text-dark","icon":"bi-exclamation-circle-fill"} -->
                         <div class="wp-block-areoi-icon areoi-icon"><i class="text-dark bi-exclamation-circle-fill " style="font-size:24px"></i></div>
                         <!-- /wp:areoi/icon -->
-
-                        <!-- wp:paragraph -->
-                        <p> </p>
-                        <!-- /wp:paragraph -->
 
                         <!-- wp:paragraph -->
                         <p>Call 9-1-1 or your local emergency number in case of a medical emergency.&nbsp;</p>
