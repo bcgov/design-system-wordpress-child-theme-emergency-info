@@ -43,7 +43,7 @@
         <div class="wp-block-group" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
             <div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group"><!-- wp:heading {"lock":{"move":false,"remove":false},"style":{"typography":{"fontSize":"1.88rem"}}} -->
-                    <h2 class="wp-block-heading" style="font-size:1.88rem">BC Emergency Alert Message</h2>
+                    <h2 class="wp-block-heading" style="font-size:1.88rem">BC Emergency Alert message</h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -323,7 +323,7 @@
 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"border":{"radius":"10px","top":{"width":"10px"}},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"support-gray-01","className":"w-100 hazard-border","layout":{"type":"default"}} -->
 <div id="Links-Resources" class="wp-block-group w-100 hazard-border has-support-gray-01-background-color has-background" style="border-radius:10px;border-top-width:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":{"bottomLeft":"10px","bottomRight":"10px"},"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"}}},"layout":{"type":"default"}} -->
     <div class="wp-block-group" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"lock":{"move":false,"remove":false},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Earthquake and Tsunami Data Sources</h2>
+        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Earthquake and tsunami data sources</h2>
         <!-- /wp:heading -->
 
         <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
@@ -421,7 +421,7 @@
 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"border":{"radius":"10px","top":{"width":"10px"}},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"support-gray-01","className":"w-100 hazard-border","layout":{"type":"default"},"hideBlock":true} -->
 <div id="Travel-Information" class="wp-block-group w-100 hazard-border has-support-gray-01-background-color has-background" style="border-radius:10px;border-top-width:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":{"bottomLeft":"10px","bottomRight":"10px"},"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"}}},"layout":{"type":"default"}} -->
     <div class="wp-block-group" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"lock":{"move":false,"remove":false},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Travel Information</h2>
+        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Travel information</h2>
         <!-- /wp:heading -->
 
         <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
@@ -438,7 +438,7 @@
             <!-- wp:areoi/column {"block_id":"efedf348-a0ff-4ff0-b8d1-78c2bb2bf89a","lock":{"move":false,"remove":false},"className":"px-0"} -->
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                <h3 class="wp-block-heading has-small-font-size"><strong><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></strong></h3>
+                <h3 class="wp-block-heading has-small-font-size"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -450,7 +450,7 @@
 
                 <!-- wp:group {"lock":{"move":true,"remove":true},"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -468,7 +468,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
@@ -504,7 +504,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
@@ -526,7 +526,7 @@
 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"border":{"radius":"10px","top":{"width":"10px"}},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"support-gray-01","className":"w-100 hazard-border","layout":{"type":"default"},"hideBlock":true} -->
 <div id="Essential-Assistance" class="wp-block-group w-100 hazard-border has-support-gray-01-background-color has-background" style="border-radius:10px;border-top-width:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":{"bottomLeft":"10px","bottomRight":"10px"},"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"}}},"layout":{"type":"default"}} -->
     <div class="wp-block-group" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"lock":{"move":false,"remove":false},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Essential Assistance</h2>
+        <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Essential assistance</h2>
         <!-- /wp:heading -->
 
         <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
@@ -543,7 +543,7 @@
             <!-- wp:areoi/column {"block_id":"efedf348-a0ff-4ff0-b8d1-78c2bb2bf89a","lock":{"move":false,"remove":false},"className":"px-0"} -->
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                <h3 class="wp-block-heading has-small-font-size"><strong><strong><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></strong></strong></h3>
+                <h3 class="wp-block-heading has-small-font-size"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -555,7 +555,7 @@
 
                 <!-- wp:group {"lock":{"move":true,"remove":true},"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -573,7 +573,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
@@ -591,7 +591,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="#example" title="Lorem ipsum">Lorem ipsum</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
@@ -609,7 +609,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
-                    <h4 class="wp-block-heading has-small-font-size"><strong><strong><strong><strong><a href="https://www2.gov.bc.ca/gov/content?id=90A6A0470E464B9EB358D5B79E8EEBB3" title="Lorem ipsum">PreparedBC</a></strong></strong></strong></strong></h4>
+                    <h4 class="wp-block-heading has-small-font-size"><strong><a href="https://www2.gov.bc.ca/gov/content?id=90A6A0470E464B9EB358D5B79E8EEBB3" title="Lorem ipsum">PreparedBC</a></strong></h4>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->

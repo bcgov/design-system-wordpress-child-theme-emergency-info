@@ -766,7 +766,7 @@
                 <!-- wp:areoi/column {"block_id":"efedf348-a0ff-4ff0-b8d1-78c2bb2bf89a","lock":{"move":false,"remove":false},"className":"px-0"} -->
                 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><strong>Follow all directions from officials:</strong></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong>Follow all directions from officials:</strong></h3>
                     <!-- /wp:heading -->
                 </div>
                 <!-- /wp:group -->
@@ -1518,7 +1518,7 @@
             <!-- wp:areoi/column {"block_id":"efedf348-a0ff-4ff0-b8d1-78c2bb2bf89a","lock":{"move":false,"remove":false},"className":"px-0"} -->
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                <h3 class="wp-block-heading has-small-font-size"><strong><strong>Follow all directions from <a href="https://www.civicinfo.bc.ca/directories">your local authority or First Nation</a>:</strong></strong></h3>
+                <h3 class="wp-block-heading has-small-font-size"><strong>Follow all directions from <a href="https://www.civicinfo.bc.ca/directories">your local authority or First Nation</a>:</strong></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->

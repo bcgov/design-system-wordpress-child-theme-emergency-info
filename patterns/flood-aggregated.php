@@ -30,7 +30,7 @@
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
 <div id="Aggregated-Areas" class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"border":{"bottom":{"color":"var:preset|color|transparent"}},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"layout":{"type":"default"}} -->
     <div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--transparent);margin-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading {"style":{"typography":{"fontSize":"1.88rem"}}} -->
-        <h2 class="wp-block-heading" style="font-size:1.88rem"><strong>Local Government</strong> <strong>evacuation information</strong></h2>
+        <h2 class="wp-block-heading" style="font-size:1.88rem"><strong>Local government evacuation information</strong></h2>
         <!-- /wp:heading -->
 
         <!-- wp:paragraph -->
@@ -1024,7 +1024,7 @@
 
                 <!-- wp:group {"lock":{"move":true,"remove":true},"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong>Flood Warning</strong>: <strong>LOCATION</strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong>Flood Warning: LOCATION</strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -1060,7 +1060,7 @@
 
                 <!-- wp:group {"lock":{"move":true,"remove":true},"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong>Flood Watch</strong>: <strong>LOCATION</strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong>Flood Watch: LOCATION</strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -1142,13 +1142,10 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-                <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph {"className":"d-inline"} -->
-                    <p class="d-inline">Refer to the <strong>Evacuation Order</strong> <strong>from your local authority or First Nation </strong>for information specific to your community</p>
+                <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
+                    <p>Refer to the <strong>Evacuation Order from your local authority or First Nation </strong>for information specific to your community</p>
                     <!-- /wp:paragraph -->
 
-                    <!-- wp:paragraph {"className":"d-inline"} -->
-                    <p class="d-inline"></p>
-                    <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
             </div>
@@ -1218,7 +1215,7 @@
             <!-- wp:areoi/column {"block_id":"efedf348-a0ff-4ff0-b8d1-78c2bb2bf89a","lock":{"move":false,"remove":false},"className":"px-0"} -->
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                <h3 class="wp-block-heading has-small-font-size"><strong><strong>Follow all directions from <a href="https://www.civicinfo.bc.ca/directories">your local authority or First Nation</a>:</strong></strong></h3>
+                <h3 class="wp-block-heading has-small-font-size"><strong>Follow all directions from <a href="https://www.civicinfo.bc.ca/directories">your local authority or First Nation</a>:</strong></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -1278,7 +1275,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
-                    <p>Refer to the <strong>Evacuation Alert <strong>from your local authority or First Nation</strong></strong> for information specific to your community.</p>
+                    <p>Refer to the <strong>Evacuation Alert from your local authority or First Nation</strong> for information specific to your community.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
