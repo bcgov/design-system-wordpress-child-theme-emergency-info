@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Provincial State of Emergency
- * Slug: design-system-wordpress-child-theme-emergency-info/provincial-state-of-emergency
- * Categories: event, provincial-state-of-emergency
+ * Title: State of Provincial Emergency
+ * Slug: design-system-wordpress-child-theme-emergency-info/state-of-provincial-emergency
+ * Categories: event, state-of-provincial-emergency
  *
  * @package Design-System-WordPress-Theme
  */
@@ -162,7 +162,7 @@
                 <!-- /wp:areoi/icon -->
 
                 <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
-                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>Provincial State of Emergency</strong></h2>
+                <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>State of Provincial Emergency</strong></h2>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
