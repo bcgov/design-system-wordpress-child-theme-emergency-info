@@ -1,7 +1,6 @@
 {
     "name": "bcgov-theme/design-system-wordpress-child-theme-emergency-info",
     "description": "Emergency info child theme",
-    "version": "1.0.2",
     "type": "wordpress-theme",
     "license": "Apache-2.0",
     "repositories": [

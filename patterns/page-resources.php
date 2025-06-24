@@ -58,7 +58,7 @@
                     <!-- /wp:group -->
                     <!-- /wp:areoi/accordion-item -->
 
-                    <!-- wp:areoi/accordion-item {"block_id":"1cfcf604-db2c-4e20-a339-34936539e32d","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"Declaration of Provincial State of Emergency"} -->
+                    <!-- wp:areoi/accordion-item {"block_id":"1cfcf604-db2c-4e20-a339-34936539e32d","parent_id":"a7a415b2-3343-4770-a074-021d7c4f56e0","title":"Declaration of State of Provincial Emergency"} -->
                     <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"constrained","justifyContent":"left"}} -->
                     <div class="wp-block-group has-white-background-color has-background" style="margin-top:var(--wp--preset--spacing--20);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph -->
                         <p><strong>Definition:</strong></p>
