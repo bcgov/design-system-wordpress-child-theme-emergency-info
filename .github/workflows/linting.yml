@@ -3,9 +3,9 @@ name: Linting
 on:
   pull_request:
     branches:
-      - development
+      - feature/DESCW-3091_node-update
   workflow_dispatch:
 
 jobs:
   trigger:
-    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@development
+    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@main
