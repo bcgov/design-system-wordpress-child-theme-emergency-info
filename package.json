@@ -1,7 +1,7 @@
 {
-  "name": "design-system-wordpress-eibc-child-theme",
-  "version": "1.1.0",
-  "description": "Design System WordPress EIBC Child Theme",
+  "name": "design-system-wordpress-child-theme-emergency-info",
+  "version": "1.2.0",
+  "description": "Design System WordPress Child Theme for Emergency Information BC",
   "author": "govwordpress@gov.bc.ca",
   "license": "GPL-2.0-or-later",
   "keywords": [
@@ -9,30 +9,32 @@
     "Block Theme",
     "BCGov",
     "DesignSystem",
-    "Gutenberg"
+    "Gutenberg",
+    "Emergency",
+    "EIBC"
   ],
-  "homepage": "https://github.com/bcgov/design-system-wordpress-theme#readme",
+  "homepage": "https://github.com/bcgov/design-system-wordpress-child-theme-emergency-info#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcgov/design-system-wordpress-theme.git"
+    "url": "git+https://github.com/bcgov/design-system-wordpress-child-theme-emergency-info.git"
   },
   "bugs": {
-    "url": "https://github.com/bcgov/design-system-wordpress-theme#readme",
+    "url": "https://github.com/bcgov/design-system-wordpress-child-theme-emergency-info/issues",
     "email": "govwordpress@gov.bc.ca"
   },
   "engines": {
-    "npm": ">= 10.7.0",
-    "node": ">=20.15.1"
+    "npm": ">=10.7.0",
+    "node": ">=20.19.4 <21.0.0"
   },
   "main": "index.js",
   "dependencies": {
-    "@bcgov/design-tokens": "^3.0.1",
-    "@wordpress/icons": "^10.3.0"
+    "@bcgov/design-tokens": "3.2.0",
+    "@wordpress/icons": "10.27.0"
   },
   "devDependencies": {
     "@bcgov/wordpress-eslint": "git+https://github.com/bcgov/wordpress-eslint.git#semver:1.x",
     "@bcgov/wordpress-stylelintrc": "git+https://github.com/bcgov/wordpress-stylelintrc.git#semver:1.x",
-    "@wordpress/scripts": "28.6.0"
+    "@wordpress/scripts": "^30.20.0"
   },
   "scripts": {
     "build": "wp-scripts build --output-path=dist",
