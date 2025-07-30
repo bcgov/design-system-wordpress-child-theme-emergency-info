@@ -4,7 +4,7 @@ permissions:
 on:
   pull_request:
     branches:
-      - feature/DESCW-3091_node-update
+      - main
   workflow_dispatch:
 
 jobs:
