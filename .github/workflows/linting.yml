@@ -3,10 +3,7 @@ permissions:
   contents: read
 on:
   pull_request:
-    branches:
-      - '**'
   workflow_dispatch:
-
 jobs:
   trigger:
     uses: bcgov/des-git-workflows/.github/workflows/linting.yml@main
