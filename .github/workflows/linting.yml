@@ -1,11 +1,12 @@
 name: Linting
-
+permissions:
+  contents: read
 on:
   pull_request:
     branches:
-      - development
+      - '**'
   workflow_dispatch:
 
 jobs:
   trigger:
-    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@development
+    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@main
