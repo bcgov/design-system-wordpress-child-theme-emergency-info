@@ -8,7 +8,7 @@ jobs:
   phpcs-validation:
     uses: bcgov/des-git-workflows/.github/workflows/phpcs-validate.yml@feature/DESCW-2984_github-workflow-improvements
 
- pattern-validation:
+  pattern-validation:
     uses: bcgov/des-git-workflows/.github/workflows/pattern-validate.yml@feature/DESCW-2984_github-workflow-improvements
 
   js-css-linting:
