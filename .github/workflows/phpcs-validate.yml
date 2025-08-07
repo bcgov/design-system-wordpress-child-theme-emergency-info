@@ -7,3 +7,11 @@ on:
 jobs:
   phpcs-validation:
     uses: bcgov/des-git-workflows/.github/workflows/phpcs-validate.yml@feature/DESCW-2984_github-workflow-improvements
+
+ pattern-validation:
+    uses: bcgov/des-git-workflows/.github/workflows/pattern-validate.yml@feature/DESCW-2984_github-workflow-improvements
+
+  js-css-linting:
+    uses: bcgov/des-git-workflows/.github/workflows/js-css-lint.yml@feature/DESCW-2984_github-workflow-improvements
+    with:
+      node_version: '22' # Custom Node.js version
