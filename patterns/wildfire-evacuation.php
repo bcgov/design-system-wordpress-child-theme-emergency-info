@@ -488,7 +488,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
-                    <p>Latest travel and highway updates in B.C. Find your <a href="https://www.drivebc.ca/static/mobile/twitter/regions.html" title="">regional DriveBC X (Twitter) account</a>.</p>
+                    <p>Find the latest travel and highway updates in B.C. from <a href="https://x.com/DriveBC">DriveBC on X (Twitter)</a>.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->

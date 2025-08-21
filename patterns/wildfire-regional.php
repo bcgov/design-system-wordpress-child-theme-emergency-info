@@ -1112,7 +1112,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li>Find your regional&nbsp;<a href="https://drivebc.ca/static/mobile/twitter/regions.html">DriveBC Twitter account</a>.</li>
+                        <li>Find the latest travel and highway updates in B.C. from <a href="https://x.com/DriveBC">DriveBC on X (Twitter)</a>.</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
