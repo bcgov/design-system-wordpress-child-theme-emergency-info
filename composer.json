@@ -32,7 +32,6 @@
         ],
         "production": [
             "composer validate",
-            "composer phpcbf",
             "composer phpcs"
         ],
         "phpcs": [
