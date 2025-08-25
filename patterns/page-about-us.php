@@ -48,7 +48,7 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->
-                <p><a href="http://civicinfo.bc.ca/directories" title="">Contact your local authority</a>&nbsp;for more detailed and local emergency information. Your local authority may include your regional district, municipality or First Nation.</p>
+                <p><a href="https://civicinfo.bc.ca/directories" title="">Contact your local authority</a>&nbsp;for more detailed and local emergency information. Your local authority may include your regional district, municipality or First Nation.</p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->

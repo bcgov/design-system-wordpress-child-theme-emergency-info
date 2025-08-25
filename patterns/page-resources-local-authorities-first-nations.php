@@ -172,7 +172,7 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-en.php">Earthquakes Canada</a></li>
+                        <li><a href="https://www.earthquakescanada.nrcan.gc.ca/index-en.php">Earthquakes Canada</a></li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
@@ -296,11 +296,11 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="http://wcatwc.arh.noaa.gov/">National Tsunami Warning Center</a></li>
+                        <li><a href="https://wcatwc.arh.noaa.gov/">National Tsunami Warning Center</a></li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-en.php">Earthquakes Canada</a></li>
+                        <li><a href="https://www.earthquakescanada.nrcan.gc.ca/index-en.php">Earthquakes Canada</a></li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -338,7 +338,7 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="http://civicinfo.bc.ca/directories">Local authorities</a></li>
+                        <li><a href="https://civicinfo.bc.ca/directories">Local authorities</a></li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
@@ -471,7 +471,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li>Bookmark <a href="http://www.emergencyinfobc.ca">www.emergencyinfobc.ca</a> for provincial emergency information 24 hours a day, 7 days a week.</li>
+                        <li>Bookmark <a href="https://www.emergencyinfobc.ca">www.emergencyinfobc.ca</a> for provincial emergency information 24 hours a day, 7 days a week.</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->

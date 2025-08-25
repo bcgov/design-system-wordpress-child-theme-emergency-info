@@ -27,7 +27,7 @@
 
                     <!-- wp:list -->
                     <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="http://civicinfo.bc.ca/directories">Your local authority</a>: Connect with your local government or First Nation for community-specific information.</li>
+                        <li><a href="https://civicinfo.bc.ca/directories">Your local authority</a>: Connect with your local government or First Nation for community-specific information.</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
