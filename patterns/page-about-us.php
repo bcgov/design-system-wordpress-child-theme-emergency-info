@@ -17,6 +17,10 @@
             <div class="wp-block-group">
 
                 <!-- wp:paragraph -->
+                <p>EmergencyInfoBC provides emergency information for people in B.C. online at <a href="http://www.emergencyinfobc.ca/" title="">www.EmergencyInfoBC.ca</a> and on social media at <a href="https://x.com/emergencyinfobc" target="_blank" rel="noopener" title="">@EmergencyInfoBC on X</a>.</p>
+                <!-- /wp:paragraph -->
+
+                <!-- wp:paragraph -->
                 <p>The EmergencyInfoBC website helps people find current and official information about:</p>
                 <!-- /wp:paragraph -->
 
@@ -40,50 +44,23 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->
-                <p>EmergencyInfoBC is operated by the <a href="https://www2.gov.bc.ca/gov/content?id=927BDE69092E469BB4C4DC3AF4FD109E" title="">Ministry of Emergency Management and Climate Readiness</a>. This ministry is the province’s lead coordinating agency for all disaster management activities, including emergency:</p>
+                <p>EmergencyInfoBC is directed by the <a href="https://www2.gov.bc.ca/gov/content?id=927BDE69092E469BB4C4DC3AF4FD109E" title="">Ministry of Emergency Management and Climate Readiness</a>. This ministry is the province’s lead coordinating agency for all disaster management activities, including emergency preparedness, response, recovery and risk mitigation.</p>
                 <!-- /wp:paragraph -->
-
-                <!-- wp:list -->
-                <ul class="wp-block-list"><!-- wp:list-item -->
-                    <li>Preparedness</li>
-                    <!-- /wp:list-item -->
-
-                    <!-- wp:list-item -->
-                    <li>Response</li>
-                    <!-- /wp:list-item -->
-
-                    <!-- wp:list-item -->
-                    <li>Recovery</li>
-                    <!-- /wp:list-item -->
-
-                    <!-- wp:list-item -->
-                    <li>Risk mitigation</li>
-                    <!-- /wp:list-item -->
-                </ul>
-                <!-- /wp:list -->
 
                 <!-- wp:paragraph -->
-                <p><a href="http://civicinfo.bc.ca/directories" title="">Contact your local authority</a>&nbsp;for more detailed and local emergency information. Your local authority may include your regional district, municipality or First Nation.</p>
+                <p><a href="https://civicinfo.bc.ca/directories" title="">Contact your local authority</a>&nbsp;for more detailed and local emergency information. Your local authority may include your regional district, municipality or First Nation.</p>
                 <!-- /wp:paragraph -->
 
-                <!-- wp:spacer {"height":"20px"} -->
-                <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-                <!-- /wp:spacer -->
-
                 <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="social-media">Social media</h2>
+                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout">Social media</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph -->
                 <p><a href="https://twitter.com/EmergencyInfoBC" title="">Follow @EmergencyInfoBC on X</a> (Twitter) for updates.</p>
                 <!-- /wp:paragraph -->
 
-                <!-- wp:spacer {"height":"20px"} -->
-                <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-                <!-- /wp:spacer -->
-
                 <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
-                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout" id="media-contacts">Media contacts</h2>
+                <h2 class="wp-block-heading is-style-alphagov-heading is-style-heading-callout">Media contacts</h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph -->
@@ -91,7 +68,7 @@
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph -->
-                <p>For media contact information organized by ministry, visit the <a href="https://news.gov.bc.ca/contacts" title="">Government Communications and Public Engagement Contact List for Media</a>. </p>
+                <p>For media contact information organized by Ministry, visit the <a href="https://news.gov.bc.ca/contacts" title="">Government Communications and Public Engagement Contact List for Media</a>. </p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:list -->
@@ -104,7 +81,7 @@
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
-                    <li>For media enquiries related to wildfires, visit the <a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/contact-channels/media-information" title="">BC Wildfire Service Media Information Contact List</a>. </li>
+                    <li>For media enquiries related to wildfires, visit the <a href="https://www2.gov.bc.ca/gov/content?id=562800242A7446518BD919F0C3A70FE2" title="">BC Wildfire Service Media Information Contact List</a>.</li>
                     <!-- /wp:list-item -->
                 </ul>
                 <!-- /wp:list -->
