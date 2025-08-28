@@ -190,7 +190,11 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Tactical Evacuation:</strong> Evacuations enacted very quickly, when a sudden threat to life requires immediate action and there is no time to prepare or issue written warnings. These types of evacuations are often coordinated by the local fire department, RCMP, or local police, with assistance from other agencies. Leave the area immediately, following the advice and direction of local authorities and emergency responders.<strong>Shelter-in-place:</strong> Anyone outside is at risk. Go inside and close and lock all windows and exterior doors.</p>
+                    <p><strong>Tactical Evacuation:</strong> Evacuations enacted very quickly, when a sudden threat to life requires immediate action and there is no time to prepare or issue written warnings. These types of evacuations are often coordinated by the local fire department, RCMP, or local police, with assistance from other agencies. Leave the area immediately, following the advice and direction of local authorities and emergency responders.</p>
+                    <!-- /wp:paragraph -->
+
+                    <!-- wp:paragraph -->
+                    <p><strong>Shelter-in-place:</strong> Anyone outside is at risk. Go inside and close and lock all windows and exterior doors.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:heading {"level":3} -->
