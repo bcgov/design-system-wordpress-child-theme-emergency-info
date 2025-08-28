@@ -450,7 +450,11 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Example community hashtags:</strong><br>#YVR, #Burnaby, #DeltaBC, #Langley, #RichmondBC, #SurreyBC, #Squamish, #Whistler, #Vancouver, #NorthVan, #WestVan, #SunshineCoast<strong>Example highway hashtags:</strong><br>#BCHwy1, #BCHwy3, #BCHwy7, #BCHwy99, #BCHwy101, #BCHwy17, #SeatoSky, #BCHwy4, #BCHwy14, #BCHwy19, #BCHwy28, #Malahat, #AlaskaHighway, #Coquihalla</p>
+                    <p><strong>Example community hashtags:</strong><br>#YVR, #Burnaby, #DeltaBC, #Langley, #RichmondBC, #SurreyBC, #Squamish, #Whistler, #Vancouver, #NorthVan, #WestVan, #SunshineCoast</p>
+                    <!-- /wp:paragraph -->
+                    
+                    <!-- wp:paragraph -->
+                    <p><strong>Example highway hashtags:</strong><br>#BCHwy1, #BCHwy3, #BCHwy7, #BCHwy99, #BCHwy101, #BCHwy17, #SeatoSky, #BCHwy4, #BCHwy14, #BCHwy19, #BCHwy28, #Malahat, #AlaskaHighway, #Coquihalla</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:heading {"className":"is-style-heading-callout"} -->
