@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Earthquake Catastrophic
- * Slug: design-system-wordpress-child-theme-emergency-info/eibc-earthquake-catastrophic
+ * Slug: design-system-wordpress-child-theme-emergency-info/earthquake-catastrophic
  * Categories: event, earthquake
  *
  * @package Design-System-WordPress-Theme
