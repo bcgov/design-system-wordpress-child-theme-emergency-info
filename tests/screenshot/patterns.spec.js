@@ -61,7 +61,7 @@ test.describe('pattern', () => {
             await editor.page.getByRole('button', { name: 'Exit code editor' }).click();
             const preview = (await editor.openPreviewPage()).locator('.entry-content').first();
             await preview.evaluate(node => node.classList.add('inactive'));
-            await expect(preview).toHaveScreenshot(SCREENSHOT_OPTIONS);
+            await expect(preview).toHaveScreenshot();
         });
     });
 
