@@ -43,7 +43,7 @@
         style="border-radius:10px;margin-top:0;margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
         <!-- wp:image {"id":1832,"sizeSlug":"full","linkDestination":"media"} -->
         <figure class="wp-block-image size-full"><img
-                src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/okib-evac.png' ); ?>" alt=""
+                src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/okib-evac.png'); ?>" alt=""
                 class="wp-image-1832" title="" /></figure>
         <!-- /wp:image -->
     </div>
@@ -238,7 +238,7 @@
                 style="padding-top:var(--wp--preset--spacing--20)">
                 <!-- wp:image {"id":3365,"sizeSlug":"full","linkDestination":"none"} -->
                 <figure class="wp-block-image size-full"><img
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/route-sign.png' ); ?>"
+                        src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/route-sign.png'); ?>"
                         alt="" class="wp-image-3365" title="" /></figure>
                 <!-- /wp:image -->
             </div>
@@ -386,7 +386,7 @@
                 style="padding-top:var(--wp--preset--spacing--20)">
                 <!-- wp:image {"id":3365,"sizeSlug":"full","linkDestination":"none"} -->
                 <figure class="wp-block-image size-full"><img
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/route-sign.png' ); ?>"
+                        src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/route-sign.png'); ?>"
                         alt="" class="wp-image-3365" title="" /></figure>
                 <!-- /wp:image -->
             </div>
@@ -522,7 +522,7 @@
                 style="padding-top:var(--wp--preset--spacing--20)">
                 <!-- wp:image {"id":2369,"sizeSlug":"full","linkDestination":"none"} -->
                 <figure class="wp-block-image size-full"><img
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/browser.png' ); ?>"
+                        src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/browser.png'); ?>"
                         alt="" class="wp-image-2369" title="" /></figure>
                 <!-- /wp:image -->
             </div>
@@ -740,7 +740,7 @@
             <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
                 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"default"}} -->
                 <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-                    <!-- wp:areoi/row {"block_id":"87625025-08d4-4d65-8758-be4cc859a90a","row_cols_xs":"row-cols-1","row_cols_sm":"row-cols-sm-2","row_cols_md":"row-cols-md-4","className":"three-card gy-2 gx-0"} -->
+                    <!-- wp:areoi/row {"block_id":"87625025-08d4-4d65-8758-be4cc859a90a","row_cols_xs":"row-cols-1","row_cols_sm":"row-cols-sm-2","row_cols_md":"row-cols-md-3","className":"three-card gy-2 gx-0"} -->
                     <!-- wp:areoi/column {"block_id":"901d49da-a867-4f26-bf34-611f971615ee"} -->
                     <!-- wp:group {"className":"h-100","style":{"border":{"radius":{"topLeft":"10px","bottomLeft":"10px"},"top":{"color":"var:preset|color|support-yellow","width":"10px"},"right":{"color":"var:preset|color|support-gray-02","width":"1px"},"bottom":{"color":"var:preset|color|support-gray-02","width":"1px"},"left":{"color":"var:preset|color|support-gray-02","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
                     <div class="wp-block-group h-100 has-white-background-color has-background"
@@ -750,7 +750,7 @@
                             style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
                             <!-- wp:image {"id":36062,"sizeSlug":"full","linkDestination":"none"} -->
                             <figure class="wp-block-image size-full"><img
-                                    src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-wait.png' ); ?>"
+                                    src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/evacuation-wait.png'); ?>"
                                     alt="" class="wp-image-36062" title="" /></figure>
                             <!-- /wp:image -->
 
@@ -781,7 +781,7 @@
                             style="border-right-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
                             <!-- wp:image {"id":36052,"sizeSlug":"full","linkDestination":"none"} -->
                             <figure class="wp-block-image size-full"><img
-                                    src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png' ); ?>"
+                                    src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png'); ?>"
                                     alt="" class="wp-image-36052" title="" /></figure>
                             <!-- /wp:image -->
 
@@ -812,7 +812,7 @@
                             style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
                             <!-- wp:image {"id":36057,"sizeSlug":"full","linkDestination":"none"} -->
                             <figure class="wp-block-image size-full"><img
-                                    src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-rescind.png' ); ?>"
+                                    src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/evacuation-rescind.png'); ?>"
                                     alt="" class="wp-image-36057" title="" /></figure>
                             <!-- /wp:image -->
 
@@ -844,7 +844,7 @@
                             style="border-right-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
                             <!-- wp:image {"id":36052,"sizeSlug":"full","linkDestination":"none"} -->
                             <figure class="wp-block-image size-full"><img
-                                    src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png' ); ?>"
+                                    src="<?php echo esc_url(get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png'); ?>"
                                     alt="" class="wp-image-36052" title="" /></figure>
                             <!-- /wp:image -->
 
@@ -857,7 +857,9 @@
                                 <!-- /wp:heading -->
 
                                 <!-- wp:paragraph -->
-                                <p>A sudden threat to life requires immediate action.</p>
+                                <p>A sudden threat to life requires immediate action. There is no time to prepare or
+                                    issue written warnings. Local emergency responders coordinate the evacuation. Follow
+                                    the advice and direction of authorities.</p>
                                 <!-- /wp:paragraph -->
                             </div>
                             <!-- /wp:group -->
