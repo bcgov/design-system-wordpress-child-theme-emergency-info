@@ -835,23 +835,15 @@
                     <!-- /wp:group -->
                     <!-- /wp:areoi/column -->
 
-                    <!-- wp:areoi/column {"block_id":"fd99a4e4-f44d-4f25-9d9e-5a3110eb9cf5"} -->
-                    <!-- wp:group {"className":"h-100","style":{"border":{"top":{"color":"var:preset|color|hazard-inactive-secondary","width":"10px"},"right":{"color":"var:preset|color|support-gray-02","width":"1px"},"bottom":{"color":"var:preset|color|support-gray-02","width":"1px"},"left":{"color":"var:preset|color|support-gray-02","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"layout":{"type":"default"}} -->
-                    <div class="wp-block-group h-100"
-                        style="border-top-color:var(--wp--preset--color--hazard-inactive-secondary);border-top-width:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-right-width:1px;border-bottom-color:var(--wp--preset--color--support-gray-02);border-bottom-width:1px;border-left-color:var(--wp--preset--color--support-gray-02);border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
-                        <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}},"border":{"right":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-                        <div class="wp-block-group"
-                            style="border-right-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
-                            <!-- wp:image {"id":36052,"sizeSlug":"full","linkDestination":"none"} -->
-                            <figure class="wp-block-image size-full"><img
-                                    src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png' ); ?>"
-                                    alt="" class="wp-image-36052" title="" /></figure>
+                    <!-- wp:areoi/column {"block_id":"abf6a613-f4d1-4b81-8328-7b9ac805c43c"} -->
+                    <!-- wp:group {"className":"h-100","style":{"border":{"radius":"10px","top":{"color":"#9393A9","width":"10px"},"right":{"color":"#DBDFF0","width":"1px"},"bottom":{"color":"#DBDFF0","width":"1px"},"left":{"color":"#DBDFF0","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"layout":{"type":"default"}} -->
+                    <div class="wp-block-group h-100" style="border-radius:10px;border-top-color:#9393A9;border-top-width:10px;border-right-color:#DBDFF0;border-right-width:1px;border-bottom-color:#DBDFF0;border-bottom-width:1px;border-left-color:#DBDFF0;border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+                        <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:image {"id":36052,"sizeSlug":"full","linkDestination":"none"} -->
+                            <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png' ); ?>" alt="" class="wp-image-36052" title="" /></figure>
                             <!-- /wp:image -->
 
-                            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
-                            <div class="wp-block-group text-center"
-                                style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-                                <!-- wp:heading {"level":4,"fontSize":"small"} -->
+                            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"var:preset|spacing|20","bottom":"0","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+                            <div class="wp-block-group text-center" style="padding-top:0;padding-right:var(--wp--preset--spacing--20);padding-bottom:0;padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":4,"fontSize":"small"} -->
                                 <h4 class="wp-block-heading has-small-font-size"><strong>Tactical Evacuation</strong>
                                 </h4>
                                 <!-- /wp:heading -->
