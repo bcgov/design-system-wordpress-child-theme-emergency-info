@@ -6,4 +6,4 @@ on:
   workflow_dispatch:
 jobs:
   trigger:
-    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@main
+    uses: bcgov/des-git-workflows/.github/workflows/linting.yml@1.2.0
