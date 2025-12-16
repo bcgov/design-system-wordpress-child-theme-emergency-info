@@ -568,11 +568,12 @@
 <div id="Warning-Map"
     class="wp-block-group w-100 has-border-color has-support-gray-02-border-color has-support-gray-02-background-color has-background"
     style="border-radius:10px;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-    <!-- wp:cover {"url":"https://www.emergencyinfobc.gov.bc.ca/app/themes/design-system-wordpress-child-theme-emergency-info/assets/images/extreme-cold-map.png","id":53712,"dimRatio":0,"className":"warning-map align-items-start","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":"10px"}}} -->
-    <div class="wp-block-cover warning-map align-items-start"
+    <!-- wp:cover {"url":"<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/extreme-cold-map.png' ); ?>","id":3742,"dimRatio":0,"overlayColor":"hazard-extreme-heat-secondary","isUserOverlayColor":false,"isDark":false,"className":"warning-map align-items-start","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":"10px"}}} -->
+    <div class="wp-block-cover is-light warning-map align-items-start"
         style="border-radius:10px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-        <span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img
-            class="wp-block-cover__image-background wp-image-53712" alt=""
+        <span aria-hidden="true"
+            class="wp-block-cover__background has-hazard-extreme-heat-secondary-background-color has-background-dim-0 has-background-dim"></span><img
+            class="wp-block-cover__image-background wp-image-3742" alt=""
             src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/extreme-cold-map.png' ); ?>"
             data-object-fit="cover" />
         <div class="wp-block-cover__inner-container">
@@ -582,8 +583,8 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
                 <div class="wp-block-group has-white-background-color has-background"
                     style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-                    <!-- wp:heading {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"fontSize":"large"} -->
-                    <h2 class="wp-block-heading has-large-font-size"
+                    <!-- wp:heading {"className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|font dark"}}}},"textColor":"font dark","fontSize":"large"} -->
+                    <h2 class="wp-block-heading is-style-default has-font-dark-color has-text-color has-link-color has-large-font-size"
                         style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0">
                         <strong>Severe Weather Warnings</strong></h2>
                     <!-- /wp:heading -->
