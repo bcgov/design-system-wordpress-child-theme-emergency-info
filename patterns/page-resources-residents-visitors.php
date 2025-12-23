@@ -9,11 +9,20 @@
 ?>
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"layout":{"type":"default"}} -->
-    <div class="wp-block-group"><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
-        <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"default"}} -->
-            <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
-                <div class="wp-block-group"><!-- wp:heading {"className":"is-style-heading-callout"} -->
+<div
+    class="wp-block-group"
+    style="margin-top: var(--wp--preset--spacing--30); margin-bottom: var(--wp--preset--spacing--30)"
+    ><!-- wp:group {"layout":{"type":"default"}} -->
+    <div class="wp-block-group"
+        ><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+        <div
+            class="wp-block-group alignwide"
+            style="padding-top: var(--wp--preset--spacing--20); padding-right: var(--wp--preset--spacing--20); padding-bottom: var(--wp--preset--spacing--20); padding-left: var(--wp--preset--spacing--20)"
+            ><!-- wp:group {"layout":{"type":"default"}} -->
+            <div class="wp-block-group"
+                ><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
+                <div class="wp-block-group"
+                    ><!-- wp:heading {"className":"is-style-heading-callout"} -->
                     <h2 class="wp-block-heading is-style-heading-callout">Where to find emergency information</h2>
                     <!-- /wp:heading -->
 
@@ -26,7 +35,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://civicinfo.bc.ca/directories">Your local authority</a>: Connect with your local government or First Nation for community-specific information.</li>
                         <!-- /wp:list-item -->
 
@@ -69,7 +79,8 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://wildfiresituation.nrs.gov.bc.ca/map">BC Wildfire Service Map</a>:&nbsp; View active wildfire locations, stage of control, fire size, and attack crew response information.</li>
                         <!-- /wp:list-item -->
 
@@ -88,7 +99,8 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://bcrfc.env.gov.bc.ca/warnings/index.htm">River Forecast Centre</a>: View active Flood Watches, Flood Warnings and Flood Advisories across B.C.</li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -99,7 +111,8 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www.tsunami.gov/">National Tsunami Warning Centre (NTWC)</a>: Get information about Tsunami Warnings, Tsunami Advisories, and Tsunami Watches that may impact B.C.</li>
                         <!-- /wp:list-item -->
 
@@ -118,7 +131,8 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://emergencymapbc.ca/">EmergencyMapBC</a>: Find Emergency Warming Centre and Emergency Cooling Centre locations, and Emergency Support Services locations, shared at the discretion of First Nations and local governments</li>
                         <!-- /wp:list-item -->
 
@@ -137,18 +151,39 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94">PreparedBC</a>: Checklists, guides, and other resources for all major hazards in B.C.<!-- wp:list -->
-                            <ul class="wp-block-list"><!-- wp:list-item -->
-                                <li><a href="https://www2.gov.bc.ca/gov/content?id=12BD383A1486467580E4A8DE37A596F5" title="">Know the hazards in your community</a></li>
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
+                        <li
+                            ><a href="https://www2.gov.bc.ca/gov/content?id=0C01537370884EA886AA49A117651C94">PreparedBC</a>: Checklists, guides, and other resources for all major hazards in B.C.<!-- wp:list -->
+                            <ul class="wp-block-list"
+                                ><!-- wp:list-item -->
+                                <li
+                                    ><a
+                                        href="https://www2.gov.bc.ca/gov/content?id=12BD383A1486467580E4A8DE37A596F5"
+                                        title=""
+                                        >Know the hazards in your community</a
+                                    ></li
+                                >
                                 <!-- /wp:list-item -->
 
                                 <!-- wp:list-item -->
-                                <li><a href="https://www2.gov.bc.ca/gov/content?id=A47FAF5F58C44E599B1D716989F76BD5" title="">Build a grab-and-go bag</a></li>
+                                <li
+                                    ><a
+                                        href="https://www2.gov.bc.ca/gov/content?id=A47FAF5F58C44E599B1D716989F76BD5"
+                                        title=""
+                                        >Build a grab-and-go bag</a
+                                    ></li
+                                >
                                 <!-- /wp:list-item -->
 
                                 <!-- wp:list-item -->
-                                <li><a href="https://www2.gov.bc.ca/gov/content?id=C8145643BB8D48FE8ECA30DCCDEB75DB" title="">Make your emergency plan</a></li>
+                                <li
+                                    ><a
+                                        href="https://www2.gov.bc.ca/gov/content?id=C8145643BB8D48FE8ECA30DCCDEB75DB"
+                                        title=""
+                                        >Make your emergency plan</a
+                                    ></li
+                                >
                                 <!-- /wp:list-item -->
                             </ul>
                             <!-- /wp:list -->
@@ -206,7 +241,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><strong>Tsunami Warning:</strong> Flood wave possible. Full evacuation suggested.</li>
                         <!-- /wp:list-item -->
 
@@ -249,7 +285,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><strong>Flood Warning:</strong>&nbsp;River levels have exceeded the riverbank or will exceed the riverbank imminently, and flooding of areas adjacent to affected rivers will result.&nbsp;</li>
                         <!-- /wp:list-item -->
 
