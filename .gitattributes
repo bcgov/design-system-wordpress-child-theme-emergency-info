@@ -3,8 +3,10 @@
 .gitignore	            export-ignore
 .gitkeep                export-ignore
 .npmrc                  export-ignore
+.prettierrc.js          export-ignore
 .stylelintrc            export-ignore
 .wp-env.json            export-ignore
+e2e-test-report.json    export-ignore
 playwright.config.js	export-ignore
 package-lock.json	    export-ignore
 package.json	        export-ignore
