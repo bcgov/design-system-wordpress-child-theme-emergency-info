@@ -38,6 +38,7 @@
     "@wordpress/e2e-test-utils-playwright": "^1.35.0",
     "@wordpress/env": "^10.36.0",
     "@wordpress/scripts": "^30.20.0",
+    "playwright-ctrf-json-reporter": "^0.0.27",
     "prettier": "^3.7.4"
   },
   "scripts": {
