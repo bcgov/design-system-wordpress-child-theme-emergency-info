@@ -10,6 +10,10 @@
 
 <!-- wp:image {"width":"155px"} -->
 <figure class="wp-block-image is-resized">
-    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/bcgov-logo-dark.png' ); ?>" alt="" style="width:155px" />
+    <img
+        src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/bcgov-logo-dark.png' ); ?>"
+        alt=""
+        style="width: 155px"
+    />
 </figure>
 <!-- /wp:image -->
