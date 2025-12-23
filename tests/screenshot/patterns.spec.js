@@ -39,6 +39,7 @@ test.describe('pattern', () => {
         { name: 'page-social-media-collection-notice' },
         { name: 'page-territorial-acknowledgement' },
         { name: 'power-outage' },
+        { name: 'police-incident' },
         { name: 'severe-drought' },
         { name: 'severe-weather-emergency' },
         { name: 'special-public-avalanche-warning' },
