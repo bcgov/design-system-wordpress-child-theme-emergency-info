@@ -9,12 +9,25 @@
 ?>
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"layout":{"type":"default"}} -->
-    <div class="wp-block-group"><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
-        <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"default"}} -->
-            <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
-                <div class="wp-block-group"><!-- wp:heading {"className":"is-style-heading-callout"} -->
-                    <h2 class="wp-block-heading is-style-heading-callout" id="emergency-icons">Emergency icons</h2>
+<div
+    class="wp-block-group"
+    style="margin-top: var(--wp--preset--spacing--30); margin-bottom: var(--wp--preset--spacing--30)"
+    ><!-- wp:group {"layout":{"type":"default"}} -->
+    <div class="wp-block-group"
+        ><!-- wp:group {"className":"alignwide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
+        <div
+            class="wp-block-group alignwide"
+            style="padding-top: var(--wp--preset--spacing--20); padding-right: var(--wp--preset--spacing--20); padding-bottom: var(--wp--preset--spacing--20); padding-left: var(--wp--preset--spacing--20)"
+            ><!-- wp:group {"layout":{"type":"default"}} -->
+            <div class="wp-block-group"
+                ><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
+                <div class="wp-block-group"
+                    ><!-- wp:heading {"className":"is-style-heading-callout"} -->
+                    <h2
+                        class="wp-block-heading is-style-heading-callout"
+                        id="emergency-icons"
+                        >Emergency icons</h2
+                    >
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
@@ -34,7 +47,9 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Emergency hashtag:<br></strong>#BCWildfire</p>
+                    <p
+                        ><strong>Emergency hashtag:<br /></strong>#BCWildfire</p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -42,7 +57,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=AD63768577B74F0D865B249B9CFC1A49">Get prepared for a wildfire</a></li>
                         <!-- /wp:list-item -->
 
@@ -57,7 +73,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation">BC Wildfire Service</a></li>
                         <!-- /wp:list-item -->
 
@@ -76,7 +93,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Emergency hashtags:</strong><br>#BCHeat, #StormReady, #BCstorm</p>
+                    <p><strong>Emergency hashtags:</strong><br />#BCHeat, #StormReady, #BCstorm</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -84,7 +101,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=1EF88DC9692D45F789D4A51FAFB15651">Get prepared for severe weather</a></li>
                         <!-- /wp:list-item -->
 
@@ -103,7 +121,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://weather.gc.ca/?alertTableFilterProv=BC#alerttable">Environment and Climate Change Canada</a> (public weather alerts)</li>
                         <!-- /wp:list-item -->
 
@@ -118,7 +137,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Emergency hashtag:</strong><br>#BCAvalanche</p>
+                    <p><strong>Emergency hashtag:</strong><br />#BCAvalanche</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -126,7 +145,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=634E0C61240F4A61A0E6D83297A7ADDF">Get prepared for an avalanche</a></li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -137,7 +157,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www.avalanche.ca/map">Avalanche Canada</a></li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -148,7 +169,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Emergency hashtag:</strong><br>#BCEarthquake</p>
+                    <p><strong>Emergency hashtag:</strong><br />#BCEarthquake</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -156,7 +177,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=90A6A0470E464B9EB358D5B79E8EEBB3">Get prepared for earthquakes and tsunamis</a></li>
                         <!-- /wp:list-item -->
 
@@ -171,7 +193,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www.earthquakescanada.nrcan.gc.ca/index-en.php">Earthquakes Canada</a></li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -182,59 +205,99 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Tsunami notification zones:</strong><br>B.C.’s coastal communities are divided into five notification zones.</p>
+                    <p><strong>Tsunami notification zones:</strong><br />B.C.’s coastal communities are divided into five notification zones.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_a.pdf" target="_blank" rel="noreferrer noopener">Tsunami Notification Zone A - map (PDF, 1.7MB)</a></p>
+                    <p
+                        ><a
+                            href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_a.pdf"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            >Tsunami Notification Zone A - map (PDF, 1.7MB)</a
+                        ></p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>North coast and Haida Gwaii</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_b.pdf" target="_blank" rel="noreferrer noopener">Tsunami Notification Zone B - map (PDF, 2.6MB)</a></p>
+                    <p
+                        ><a
+                            href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_b.pdf"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            >Tsunami Notification Zone B - map (PDF, 2.6MB)</a
+                        ></p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>Central coast and northeast Vancouver Island coast including Kitimat, Bella Coola, and Port Hardy</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_c.pdf" target="_blank" rel="noreferrer noopener">Tsunami Notification Zone C - map (PDF, 2.8MB)</a></p>
+                    <p
+                        ><a
+                            href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_c.pdf"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            >Tsunami Notification Zone C - map (PDF, 2.8MB)</a
+                        ></p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>West coast of Vancouver Island from Cape Scott to Port Renfrew, including Tofino, Ucluelet and Port Alberni</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_d.pdf" target="_blank" rel="noreferrer noopener">Tsunami Notification Zone D - map (PDF, 1.2MB)</a></p>
+                    <p
+                        ><a
+                            href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_d.pdf"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            >Tsunami Notification Zone D - map (PDF, 1.2MB)</a
+                        ></p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>Juan de Fuca Strait from Jordan River to Greater Victoria, including the Saanich Peninsula, Sooke, Sidney, Langford and Colwood</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_e.pdf" target="_blank" rel="noreferrer noopener">Tsunami Notification Zone E - map (PDF, 3.2MB)</a></p>
+                    <p
+                        ><a
+                            href="https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/tsunami-zones/zone_e.pdf"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            >Tsunami Notification Zone E - map (PDF, 3.2MB)</a
+                        ></p
+                    >
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>Strait of Georgia (including the Gulf Islands)</li>
                         <!-- /wp:list-item -->
 
@@ -249,7 +312,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>Warning: Highest level; imminent or confirmed destructive tsunami</li>
                         <!-- /wp:list-item -->
 
@@ -280,7 +344,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=90A6A0470E464B9EB358D5B79E8EEBB3">Get prepared for earthquakes and tsunamis</a></li>
                         <!-- /wp:list-item -->
 
@@ -295,7 +360,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://wcatwc.arh.noaa.gov/">National Tsunami Warning Center</a></li>
                         <!-- /wp:list-item -->
 
@@ -314,7 +380,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Emergency hashtag:</strong><br>#BCLandslide</p>
+                    <p><strong>Emergency hashtag:</strong><br />#BCLandslide</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
@@ -322,7 +388,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=673B4BF9FE304FA9AC218B0D30D5762B">Get prepared for a landslide</a></li>
                         <!-- /wp:list-item -->
 
@@ -337,7 +404,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://civicinfo.bc.ca/directories">Local authorities</a></li>
                         <!-- /wp:list-item -->
 
@@ -356,7 +424,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=28A23127ED3F4D0C82666D2767F1158E">Get prepared for a power outage</a></li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -367,7 +436,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www.bchydro.com/power-outages/app/outage-map.html">BC Hydro outage map</a></li>
                         <!-- /wp:list-item -->
 
@@ -386,7 +456,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=70C55500C949404185ED0B25F1417EDE">Get prepared for a pandemic or disease outbreak</a></li>
                         <!-- /wp:list-item -->
 
@@ -401,7 +472,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=EC75FD2ECA044D2C9CCB32361905348A">B.C. Ministry of Health</a></li>
                         <!-- /wp:list-item -->
 
@@ -420,7 +492,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=AEAFDECC68464362BE3F52D7C9AE3A78">Get prepared for a hazardous material spill</a></li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -431,7 +504,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li><a href="https://www2.gov.bc.ca/gov/content?id=32FB84D040734B2D9D07D3EE12B1DC50">B.C. Ministry of Environment and Climate Change Strategy</a></li>
                         <!-- /wp:list-item -->
 
@@ -450,11 +524,11 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p><strong>Example community hashtags:</strong><br>#YVR, #Burnaby, #DeltaBC, #Langley, #RichmondBC, #SurreyBC, #Squamish, #Whistler, #Vancouver, #NorthVan, #WestVan, #SunshineCoast</p>
+                    <p><strong>Example community hashtags:</strong><br />#YVR, #Burnaby, #DeltaBC, #Langley, #RichmondBC, #SurreyBC, #Squamish, #Whistler, #Vancouver, #NorthVan, #WestVan, #SunshineCoast</p>
                     <!-- /wp:paragraph -->
-                    
+
                     <!-- wp:paragraph -->
-                    <p><strong>Example highway hashtags:</strong><br>#BCHwy1, #BCHwy3, #BCHwy7, #BCHwy99, #BCHwy101, #BCHwy17, #SeatoSky, #BCHwy4, #BCHwy14, #BCHwy19, #BCHwy28, #Malahat, #AlaskaHighway, #Coquihalla</p>
+                    <p><strong>Example highway hashtags:</strong><br />#BCHwy1, #BCHwy3, #BCHwy7, #BCHwy99, #BCHwy101, #BCHwy17, #SeatoSky, #BCHwy4, #BCHwy14, #BCHwy19, #BCHwy28, #Malahat, #AlaskaHighway, #Coquihalla</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:heading {"className":"is-style-heading-callout"} -->
@@ -470,7 +544,8 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
+                    <ul class="wp-block-list"
+                        ><!-- wp:list-item -->
                         <li>Familiarize yourself with the local authorities in the areas you are visiting. You can use the <a href="https://www.civicinfo.bc.ca/directories">CivicInfoBC directory</a> to learn more.&nbsp;</li>
                         <!-- /wp:list-item -->
 
