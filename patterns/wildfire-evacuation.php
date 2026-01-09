@@ -202,8 +202,7 @@
                 <!-- /wp:areoi/icon -->
 
                 <!-- wp:paragraph -->
-                <p><a href="#example" target="_blank" rel="noopener" title="">Evacuation Order/Alert with list of
-                        impacted properties (PDF)</a></p>
+                <p><a href="#example" target="_blank" rel="noopener" title="">Evacuation Order/Alert with list of impacted properties (PDF)</a></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
@@ -348,8 +347,7 @@
                     <!-- /wp:areoi/icon -->
 
                     <!-- wp:paragraph {"className":"d-inline"} -->
-                    <p class="d-inline"> <a href="https://ess.gov.bc.ca/">Emergency Support Services</a> (ESS) and learn
-                        how to access short-term basic support.</p>
+                    <p class="d-inline"> <a href="https://ess.gov.bc.ca/">Emergency Support Services</a> (ESS) and learn how to access short-term basic support.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -628,8 +626,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
-                    <p>Find the latest travel and highway updates in B.C. from <a href="https://x.com/DriveBC">DriveBC
-                            on X (Twitter)</a>.</p>
+                    <p>Find the latest travel and highway updates in B.C. from <a href="https://x.com/DriveBC">DriveBC on X (Twitter)</a>.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->

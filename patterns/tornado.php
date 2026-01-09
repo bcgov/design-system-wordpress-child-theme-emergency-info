@@ -42,9 +42,7 @@
         <!-- /wp:heading -->
 
         <!-- wp:paragraph -->
-        <p><a title="" href="https://weather.gc.ca/index_e.html?layers=alert,&amp;alertTableFilterProv=BC">Environment
-                and Climate Change Canada</a>&nbsp;has issued&nbsp;a Tornado [Watch/Warning] the following area(s) in
-            B.C.<br></p>
+        <p><a title="" href="https://weather.gc.ca/index_e.html?layers=alert,&amp;alertTableFilterProv=BC">Environment and Climate Change Canada</a>&nbsp;has issued&nbsp;a Tornado [Watch/Warning] the following area(s) in B.C.<br></p>
         <!-- /wp:paragraph -->
 
         <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
@@ -352,8 +350,7 @@
                         <div class="wp-block-group"
                             style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                             <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                            <h3 class="wp-block-heading has-small-font-size"><strong>Take these steps to help
-                                    stay</strong> <strong>safe during a Tornado [Watch / Warning]:</strong> </h3>
+                            <h3 class="wp-block-heading has-small-font-size"><strong>Take these steps to help stay</strong> <strong>safe during a Tornado [Watch / Warning]:</strong> </h3>
                             <!-- /wp:heading -->
                         </div>
                         <!-- /wp:group -->
@@ -472,8 +469,7 @@
                         <div class="wp-block-group"
                             style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                             <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                            <h3 class="wp-block-heading has-small-font-size"><strong>Take these steps to help
-                                    stay</strong> <strong>safe during a Severe Thunderstorm Warning:</strong> </h3>
+                            <h3 class="wp-block-heading has-small-font-size"><strong>Take these steps to help stay</strong> <strong>safe during a Severe Thunderstorm Warning:</strong> </h3>
                             <!-- /wp:heading -->
                         </div>
                         <!-- /wp:group -->
@@ -659,9 +655,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li>Poor driving conditions are expected on highways and drivers are urged to&nbsp;<a
-                                href="https://news.gov.bc.ca/releases/2022MOTI0144-001951">avoid non-essential
-                                travel</a>.</li>
+                        <li>Poor driving conditions are expected on highways and drivers are urged to&nbsp;<a href="https://news.gov.bc.ca/releases/2022MOTI0144-001951">avoid non-essential travel</a>.</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->
@@ -693,8 +687,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li>Drivers are advised to exercise caution, expect changing conditions and&nbsp;<a
-                                href="https://news.gov.bc.ca/releases/2022MOTI0143-001949">avoid unnecessary travel</a>.
+                        <li>Drivers are advised to exercise caution, expect changing conditions and&nbsp;<a href="https://news.gov.bc.ca/releases/2022MOTI0143-001949">avoid unnecessary travel</a>.
                         </li>
                         <!-- /wp:list-item -->
                     </ul>
@@ -788,8 +781,7 @@
 
                     <!-- wp:paragraph -->
                     <p><a
-                            href="https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/hazards-emergencies/tornados/how-prepare.html#bfr">Government
-                            of Canada - Preparing for a tornado</a></p>
+                            href="https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/hazards-emergencies/tornados/how-prepare.html#bfr">Government of Canada - Preparing for a tornado</a></p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -803,8 +795,7 @@
 
                     <!-- wp:paragraph -->
                     <p><a
-                            href="https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/know-your-hazards/severe-weather">PreparedBC
-                            - Preparing for severe weather</a></p>
+                            href="https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/know-your-hazards/severe-weather">PreparedBC - Preparing for severe weather</a></p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -850,8 +841,7 @@
 
                     <!-- wp:paragraph {"hideBlock":true} -->
                     <p>Contact a healthcare provider, or call&nbsp;<a
-                            href="https://www.healthlinkbc.ca/more/health-features/beat-heat">HealthLinkBC</a>&nbsp;at
-                        8-1-1, if you are experiencing mild, cold-related illness. </p>
+                            href="https://www.healthlinkbc.ca/more/health-features/beat-heat">HealthLinkBC</a>&nbsp;at 8-1-1, if you are experiencing mild, cold-related illness. </p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -914,10 +904,7 @@
                             <!-- /wp:heading -->
 
                             <!-- wp:paragraph -->
-                            <p>Issued when conditions are favourable for the development of severe&nbsp;<a
-                                    href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/glossary.html#wsglossaryT">thunderstorms</a>&nbsp;with
-                                one or more&nbsp;<a
-                                    href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/glossary.html#wsglossaryT">tornadoes</a>.
+                            <p>Issued when conditions are favourable for the development of severe&nbsp;<a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/glossary.html#wsglossaryT">thunderstorms</a>&nbsp;with one or more&nbsp;<a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/glossary.html#wsglossaryT">tornadoes</a>.
                             </p>
                             <!-- /wp:paragraph -->
                         </div>
@@ -944,8 +931,7 @@
 
                             <!-- wp:paragraph -->
                             <p>Issued when at least one <a
-                                    href="https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/hazards-emergencies/tornados.html">tornado</a>
-                                is imminent, as indicated by observations, reports and/or radar scans.</p>
+                                    href="https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/hazards-emergencies/tornados.html">tornado</a> is imminent, as indicated by observations, reports and/or radar scans.</p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->

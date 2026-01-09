@@ -32,9 +32,7 @@
             <!-- /wp:areoi/icon -->
 
             <!-- wp:paragraph {"fontSize":"small"} -->
-            <p class="has-small-font-size"><strong><a
-                        href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC
-                        RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
+            <p class="has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:group -->
@@ -248,8 +246,7 @@
             <div class="wp-block-group"
                 style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                 <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                <h3 class="wp-block-heading has-small-font-size"><strong>If you are in the area where the incident is
-                        happening:</strong></h3>
+                <h3 class="wp-block-heading has-small-font-size"><strong>If you are in the area where the incident is happening:</strong></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -264,8 +261,7 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:paragraph {"className":"d-inline"} -->
-                    <p class="d-inline"><strong>Leave the area immediately.</strong> <strong>Do not attempt to
-                            return.</strong></p>
+                    <p class="d-inline"><strong>Leave the area immediately.</strong> <strong>Do not attempt to return.</strong></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"className":"d-inline"} -->
@@ -309,9 +305,7 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:paragraph {"className":"d-inline"} -->
-                    <p class="d-inline">Monitor local sources of information and follow all instructions from <a
-                            href="https://www.civicinfo.bc.ca/directories">your municipality, Local Authority or First
-                            Nation</a>.&nbsp;&nbsp;&nbsp;<strong> </strong></p>
+                    <p class="d-inline">Monitor local sources of information and follow all instructions from <a href="https://www.civicinfo.bc.ca/directories">your municipality, Local Authority or First Nation</a>.&nbsp;&nbsp;&nbsp;<strong> </strong></p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -353,14 +347,11 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><a
-                                href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC
-                                RCMP Newsroom</a></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
-                    <p>For updates, follow <a href="https://twitter.com/BCRCMP">@BCRMP</a> on X or visit the BC RCMP
-                        Newsroom.</p>
+                    <p>For updates, follow <a href="https://twitter.com/BCRCMP">@BCRMP</a> on X or visit the BC RCMP Newsroom.</p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -403,8 +394,7 @@
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:heading {"level":3,"fontSize":"small"} -->
                     <h3 class="wp-block-heading has-small-font-size"><a title=""
-                            href="https://www2.gov.bc.ca/gov/content/justice/criminal-justice/policing-in-bc/bc-police-services"><strong>Find
-                                your local police service in B.C.</strong></a></h3>
+                            href="https://www2.gov.bc.ca/gov/content/justice/criminal-justice/policing-in-bc/bc-police-services"><strong>Find your local police service in B.C.</strong></a></h3>
                     <!-- /wp:heading -->
                 </div>
                 <!-- /wp:group -->
@@ -422,11 +412,9 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><a title=""
-                            href="https://www2.gov.bc.ca/gov/content/justice/criminal-justice/policing-in-bc/bc-police-services"></a><a
+                    <h3 class="wp-block-heading has-small-font-size"><a
                             title=""
-                            href="https://www.healthlinkbc.ca/mental-health-and-substance-use/mental-health/mental-health-supports-and-resources"><strong>HealthLinkBC:
-                                mental health supports and resources</strong></a></h3>
+                            href="https://www.healthlinkbc.ca/mental-health-and-substance-use/mental-health/mental-health-supports-and-resources"><strong>HealthLinkBC: mental health supports and resources</strong></a></h3>
                     <!-- /wp:heading -->
                 </div>
                 <!-- /wp:group -->
