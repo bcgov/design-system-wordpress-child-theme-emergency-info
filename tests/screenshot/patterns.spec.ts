@@ -61,11 +61,11 @@ test.describe('pattern', () => {
             await editor.page.getByRole('button', { name: 'Exit code editor' }).click();
 
             // Capture editor canvas.
-            await editor.page.addStyleTag({ content: ` * { overflow: visible !important; height: auto !important; max-height: none !important; } ` });
             // Remove footer or it overlaps some of the content.
             await editor.page.getByLabel('Editor footer').evaluate((node) => node.remove());
             const canvas = await editor.page.locator('.is-root-container');
             await canvas.evaluate(node => node.classList.add('inactive'));
+            await editor.page.addStyleTag({ content: '* { overflow: visible !important; height: auto !important; max-height: none !important; }' });
             await canvas.screenshot({
                 animations: 'disabled',
                 path:
