@@ -38,15 +38,15 @@
     "@wordpress/e2e-test-utils-playwright": "^1.35.0",
     "@wordpress/env": "^10.36.0",
     "@wordpress/scripts": "^30.20.0",
-    "playwright-ctrf-json-reporter": "^0.0.27",
-    "prettier": "^3.7.4"
+    "js-beautify": "^1.15.4",
+    "playwright-ctrf-json-reporter": "^0.0.27"
   },
   "scripts": {
     "build": "wp-scripts build --output-path=dist",
     "build:production": "npm ci && npm run fix:js && npm run fix:css && npm run fix:md && npm run test:unit && npm run build",
     "lint:css": "wp-scripts lint-style 'src/**/*.scss'",
     "fix:css": "wp-scripts lint-style 'src/**/*.scss' --fix",
-    "fix:html": "npx prettier ./{parts,patterns,templates}/**/* --write",
+    "fix:html": "npx js-beautify --html ./{parts,patterns,templates}/**/*",
     "lint:js": "wp-scripts lint-js src",
     "fix:js": "wp-scripts lint-js src --fix",
     "format": "wp-scripts format src/",

@@ -1,8 +1,8 @@
 {
   "reportFormat": "CTRF",
   "specVersion": "0.0.0",
-  "reportId": "bb32ae8b-4f24-4f67-a530-f99f7c530df8",
-  "timestamp": "2026-01-09T23:20:04.498Z",
+  "reportId": "6a8a6280-fe3c-4fb3-b8c0-fa6f207e2a7f",
+  "timestamp": "2026-01-09T23:43:16.214Z",
   "generatedBy": "playwright-ctrf-json-reporter",
   "results": {
     "tool": {
@@ -15,15 +15,15 @@
       "pending": 0,
       "skipped": 0,
       "other": 0,
-      "start": 1768000806382,
-      "stop": 1768000815919,
+      "start": 1768002198658,
+      "stop": 1768002211213,
       "suites": 0
     },
     "tests": [
       {
-        "name": "police-incident",
+        "name": "wildfire-evacuation",
         "status": "passed",
-        "duration": 8859
+        "duration": 10624
       }
     ]
   }
