@@ -1027,9 +1027,166 @@
         <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Understanding emergency events</h2>
         <!-- /wp:heading -->
 
-        <!-- wp:block {"ref":64766} /-->
+        <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"default"}} -->
+        <div id="Evacuation-Stages" class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+            <h3 class="wp-block-heading has-medium-font-size"><strong>Evacuation stages</strong></h3>
+            <!-- /wp:heading -->
 
-        <!-- wp:block {"ref":44802,"hideBlock":true} /-->
+            <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"bottom":"var:preset|spacing|20"}}},"layout":{"type":"default"}} -->
+            <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--20);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"default"}} -->
+                <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:areoi/row {"block_id":"87625025-08d4-4d65-8758-be4cc859a90a","row_cols_xs":"row-cols-1","row_cols_sm":"row-cols-sm-1","row_cols_md":"row-cols-md-3","className":"three-card gy-2 gx-0"} -->
+                    <!-- wp:areoi/column {"block_id":"901d49da-a867-4f26-bf34-611f971615ee"} -->
+                    <!-- wp:group {"className":"h-100","style":{"border":{"radius":{"topLeft":"10px","bottomLeft":"10px"},"top":{"color":"var:preset|color|support-yellow","width":"10px"},"right":{"color":"var:preset|color|support-gray-02","width":"1px"},"bottom":{"color":"var:preset|color|support-gray-02","width":"1px"},"left":{"color":"var:preset|color|support-gray-02","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                    <div class="wp-block-group h-100 has-white-background-color has-background" style="border-top-left-radius:10px;border-bottom-left-radius:10px;border-top-color:var(--wp--preset--color--support-yellow);border-top-width:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-right-width:1px;border-bottom-color:var(--wp--preset--color--support-gray-02);border-bottom-width:1px;border-left-color:var(--wp--preset--color--support-gray-02);border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+                        <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:image {"id":36062,"sizeSlug":"full","linkDestination":"none"} -->
+                            <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-alert.png' ); ?>" alt="" class="wp-image-36062" title="" /></figure>
+                            <!-- /wp:image -->
+
+                            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+                            <div class="wp-block-group text-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"fontSize":"small"} -->
+                                <h4 class="wp-block-heading has-small-font-size"><strong>Evacuation Alert</strong></h4>
+                                <!-- /wp:heading -->
+
+                                <!-- wp:paragraph -->
+                                <p>Be ready to leave on short notice.</p>
+                                <!-- /wp:paragraph -->
+                            </div>
+                            <!-- /wp:group -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                    <!-- /wp:areoi/column -->
+
+                    <!-- wp:areoi/column {"block_id":"fd99a4e4-f44d-4f25-9d9e-5a3110eb9cf5"} -->
+                    <!-- wp:group {"className":"h-100","style":{"border":{"top":{"color":"var:preset|color|support-red","width":"10px"},"right":{"color":"var:preset|color|support-gray-02","width":"1px"},"bottom":{"color":"var:preset|color|support-gray-02","width":"1px"},"left":{"color":"var:preset|color|support-gray-02","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                    <div class="wp-block-group h-100 has-white-background-color has-background" style="border-top-color:var(--wp--preset--color--support-red);border-top-width:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-right-width:1px;border-bottom-color:var(--wp--preset--color--support-gray-02);border-bottom-width:1px;border-left-color:var(--wp--preset--color--support-gray-02);border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}},"border":{"right":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+                        <div class="wp-block-group" style="border-right-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:image {"id":36052,"sizeSlug":"full","linkDestination":"none"} -->
+                            <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-move.png' ); ?>" alt="" class="wp-image-36052" title="" /></figure>
+                            <!-- /wp:image -->
+
+                            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+                            <div class="wp-block-group text-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"fontSize":"small"} -->
+                                <h4 class="wp-block-heading has-small-font-size"><strong>Evacuation Order</strong></h4>
+                                <!-- /wp:heading -->
+
+                                <!-- wp:paragraph -->
+                                <p>You are at risk. Leave the area immediately.</p>
+                                <!-- /wp:paragraph -->
+                            </div>
+                            <!-- /wp:group -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                    <!-- /wp:areoi/column -->
+
+                    <!-- wp:areoi/column {"block_id":"fd99a4e4-f44d-4f25-9d9e-5a3110eb9cf5"} -->
+                    <!-- wp:group {"className":"h-100","style":{"border":{"radius":{"topRight":"10px","bottomRight":"10px"},"top":{"color":"var:preset|color|support-green","width":"10px"},"right":{"color":"var:preset|color|support-gray-02","width":"1px"},"bottom":{"color":"var:preset|color|support-gray-02","width":"1px"},"left":{"color":"var:preset|color|support-gray-02","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                    <div class="wp-block-group h-100 has-white-background-color has-background" style="border-top-right-radius:10px;border-bottom-right-radius:10px;border-top-color:var(--wp--preset--color--support-green);border-top-width:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-right-width:1px;border-bottom-color:var(--wp--preset--color--support-gray-02);border-bottom-width:1px;border-left-color:var(--wp--preset--color--support-gray-02);border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"0","bottom":"var:preset|spacing|20","left":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+                        <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:image {"id":36057,"sizeSlug":"full","linkDestination":"none"} -->
+                            <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/evacuation-rescind.png' ); ?>" alt="" class="wp-image-36057" title="" /></figure>
+                            <!-- /wp:image -->
+
+                            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+                            <div class="wp-block-group text-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"fontSize":"small"} -->
+                                <h4 class="wp-block-heading has-small-font-size"><strong>Evacuation Rescind</strong></h4>
+                                <!-- /wp:heading -->
+
+                                <!-- wp:paragraph -->
+                                <p>The threat to life and safety has passed.</p>
+                                <!-- /wp:paragraph -->
+                            </div>
+                            <!-- /wp:group -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                    <!-- /wp:areoi/column -->
+                    <!-- /wp:areoi/row -->
+                </div>
+                <!-- /wp:group -->
+            </div>
+            <!-- /wp:group -->
+        </div>
+        <!-- /wp:group -->
+
+        <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"bottom":"var:preset|spacing|20"}}},"layout":{"type":"default"},"hideBlock":true} -->
+        <div id="Alert-Instructions" class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--20);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"fontSize":"medium","layout":{"type":"default"}} -->
+            <div class="wp-block-group has-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+                <h3 class="wp-block-heading has-medium-font-size"><strong>What to do if you get a BC Emergency Alert</strong></h3>
+                <!-- /wp:heading -->
+
+                <!-- wp:paragraph -->
+                <p>Learn what to do if you receive a BC Emergency Alert on your cell phone, TV or radio.</p>
+                <!-- /wp:paragraph -->
+
+                <!-- wp:areoi/row {"block_id":"87625025-08d4-4d65-8758-be4cc859a90a","row_cols_xs":"row-cols-1","row_cols_md":"row-cols-md-1","row_cols_lg":"row-cols-lg-3","className":"gy-3"} -->
+                <!-- wp:areoi/column {"block_id":"e2239b6a-8fba-4b94-8e1c-01cfcdeab91d","className":"hazard_type-earthquake"} -->
+                <!-- wp:group {"className":"soft-shadow h-100 d-flex hazard-border","style":{"border":{"radius":"10px","top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                <div class="wp-block-group soft-shadow h-100 d-flex hazard-border has-white-background-color has-background" style="border-radius:10px;border-top-style:none;border-top-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","orientation":"horizontal"}} -->
+                    <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":3862,"width":"100px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+                        <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/alert-stop.png' ); ?>" alt="" class="wp-image-3862" style="aspect-ratio:1;object-fit:cover;width:100px" title="" /></figure>
+                        <!-- /wp:image -->
+
+                        <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"var:preset|spacing|20"}},"layout":{"selfStretch":"fixed","flexSize":"90%"}},"layout":{"type":"constrained","justifyContent":"left","wideSize":"","contentSize":""}} -->
+                        <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.38rem","fontStyle":"normal","fontWeight":"600"}}} -->
+                            <h3 class="wp-block-heading" style="font-size:1.38rem;font-style:normal;font-weight:600">Stop what you are doing</h3>
+                            <!-- /wp:heading -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                </div>
+                <!-- /wp:group -->
+                <!-- /wp:areoi/column -->
+
+                <!-- wp:areoi/column {"block_id":"23dadb7a-f795-43ca-93ee-823b250ec0c1","className":"hazard_type-wildfire"} -->
+                <!-- wp:group {"className":"soft-shadow h-100 d-flex hazard-border","style":{"border":{"radius":"10px","top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                <div class="wp-block-group soft-shadow h-100 d-flex hazard-border has-white-background-color has-background" style="border-radius:10px;border-top-style:none;border-top-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","orientation":"horizontal"}} -->
+                    <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":37597,"width":"100px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+                        <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/alert-notification.png' ); ?>" alt="" class="wp-image-37597" style="aspect-ratio:1;object-fit:cover;width:100px" title="" /></figure>
+                        <!-- /wp:image -->
+
+                        <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"var:preset|spacing|20"}},"layout":{"selfStretch":"fixed","flexSize":"90%"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+                        <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.38rem","fontStyle":"normal","fontWeight":"600"}}} -->
+                            <h3 class="wp-block-heading" style="font-size:1.38rem;font-style:normal;font-weight:600">Read the alert and find out if you are in the affected area</h3>
+                            <!-- /wp:heading -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                </div>
+                <!-- /wp:group -->
+                <!-- /wp:areoi/column -->
+
+                <!-- wp:areoi/column {"block_id":"ea327acd-f78d-4e8d-bb5a-f6d2a335953f","className":"hazard_type-hazardous-material-spill"} -->
+                <!-- wp:group {"className":"soft-shadow h-100 d-flex hazard-border","style":{"border":{"radius":"10px","top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+                <div class="wp-block-group soft-shadow h-100 d-flex hazard-border has-white-background-color has-background" style="border-radius:10px;border-top-style:none;border-top-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","orientation":"horizontal"}} -->
+                    <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":3877,"width":"100px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+                        <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/alert-directions.png' ); ?>" alt="" class="wp-image-3877" style="aspect-ratio:1;object-fit:cover;width:100px" title="" /></figure>
+                        <!-- /wp:image -->
+
+                        <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"var:preset|spacing|20"}},"layout":{"selfStretch":"fixed","flexSize":"90%"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+                        <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.38rem","fontStyle":"normal","fontWeight":"600"}}} -->
+                            <h3 class="wp-block-heading" style="font-size:1.38rem;font-style:normal;font-weight:600">Follow all directions immediately</h3>
+                            <!-- /wp:heading -->
+                        </div>
+                        <!-- /wp:group -->
+                    </div>
+                    <!-- /wp:group -->
+                </div>
+                <!-- /wp:group -->
+                <!-- /wp:areoi/column -->
+                <!-- /wp:areoi/row -->
+            </div>
+            <!-- /wp:group -->
+
+            <!-- wp:group {"className":"text-center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"default"}} -->
+            <div class="wp-block-group text-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:areoi/button {"block_id":"008d20b5-cf0b-4c94-b163-67b91fb5102a","size":"Default","url":"https://www2.gov.bc.ca/gov/content?id=30DA852E39E7438DB8DA9B23D75A9073","text":"Learn about BC Emergency Alerts","icon":"bi-arrow-up-right"} /--></div>
+            <!-- /wp:group -->
+        </div>
+        <!-- /wp:group -->
     </div>
     <!-- /wp:group -->
 </div>
