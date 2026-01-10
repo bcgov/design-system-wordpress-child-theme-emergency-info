@@ -7,7 +7,9 @@
     ],
     "plugins": [
         "../../plugins/bcgov-emergency-info",
-        "../../plugins/all-bootstrap-blocks"
+        "../../plugins/advanced-custom-fields",
+        "../../plugins/all-bootstrap-blocks",
+        "../../plugins/display-a-meta-field-as-block"
     ],
     "lifecycleScripts": {
         "afterStart": "wp-env run tests-cli wp theme activate design-system-wordpress-child-theme-emergency-info"
