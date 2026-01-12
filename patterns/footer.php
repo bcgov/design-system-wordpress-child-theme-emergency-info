@@ -42,9 +42,7 @@
             <!-- /wp:group -->
 
             <!-- wp:paragraph -->
-            <p>We can help in over 220 languages and through other accessible options.&nbsp;<a href="https://www2.gov.bc.ca/gov/content/home/get-help-with-government-services">Call, email or text
-                    us</a>, or&nbsp;<a href="https://www2.gov.bc.ca/gov/content/home/services-a-z">find a service
-                    centre</a></p>
+            <p>We can help in over 220 languages and through other accessible options.&nbsp;<a href="https://www2.gov.bc.ca/gov/content/home/get-help-with-government-services">Call, email or text us</a>, or&nbsp;<a href="https://www2.gov.bc.ca/gov/content/home/services-a-z">find a service centre</a></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
