@@ -16,7 +16,7 @@
                 <div class="wp-block-group">
 
                     <!-- wp:paragraph -->
-                    <p>EmergencyInfoBC provides emergency information for people in B.C. online at <a href="http://www.emergencyinfobc.ca/" title="">www.EmergencyInfoBC.ca</a> and on social media at <a href="https://x.com/emergencyinfobc" target="_blank" rel="noopener" title="">@EmergencyInfoBC on X</a>.</p>
+                    <p>EmergencyInfoBC provides emergency information for people in B.C. online at <a href="http://www.emergencyinfobc.ca/" title="">www.EmergencyInfoBC.ca</a> and on social media at <a href="https://x.com/emergencyinfobc" target="_blank" rel="noopener" title="">@EmergencyInfoBC on X (Twitter)</a> and on <a href="https://www.facebook.com/EmergencyInfoBC" target="_blank" rel="noopener" title="">Facebook</a>.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
