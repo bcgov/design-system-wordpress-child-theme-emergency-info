@@ -86,7 +86,7 @@
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://localhost/eibc2/territorial-acknowledgement" data-type="page" data-id="68497">Territorial acknowledgement</a></p>
+                    <p><a href="<?php echo esc_url( home_url( 'territorial-acknowledgement' ) ); ?>" data-type="page" data-id="68497">Territorial acknowledgement</a></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph -->
