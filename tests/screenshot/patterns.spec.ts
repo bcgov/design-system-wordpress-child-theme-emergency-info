@@ -79,6 +79,7 @@ test.describe('pattern', () => {
             const preview = previewPage.locator('.entry-content').first();
             await preview.evaluate(node => node.classList.add('inactive'));
             await preview.screenshot({
+                animations: 'disabled',
                 path:
                     'tests/screenshot/__snapshots__/pattern-' +
                     name +
