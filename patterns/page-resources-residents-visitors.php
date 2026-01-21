@@ -31,7 +31,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li><a href="https://www.emergencyinfobc.gov.bc.ca/">EmergencyInfoBC</a>: Official source for provincial emergency information from issuing authorities in B.C., including Evacuation Orders and Evacuation Alerts from local authorities and First Nations.</li>
+                        <li><a href="https://www.emergencyinfobc.gov.bc.ca/">EmergencyInfoBC</a>: Official source for provincial emergency information from issuing authorities in B.C., including Evacuation Orders and Evacuation Alerts from local authorities and First Nations. You can also follow us on <a href="https://x.com/emergencyinfobc" target="_blank" rel="noopener" title="">on X (Twitter)</a> and <a href="https://www.facebook.com/EmergencyInfoBC" target="_blank" rel="noopener" title="">Facebook</a>.</li>
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->

@@ -479,7 +479,7 @@
                         <!-- /wp:list-item -->
 
                         <!-- wp:list-item -->
-                        <li>Follow <a href="https://x.com/EmergencyInfoBC">@EmergencyInfoBC</a> on X (formerly Twitter) for trusted information about emergencies in B.C.</li>
+                        <li>Follow <a href="https://x.com/emergencyinfobc" target="_blank" rel="noopener" title="">@EmergencyInfoBC</a> on X (Twitter) and <a href="https://www.facebook.com/EmergencyInfoBC" target="_blank" rel="noopener" title="">Facebook</a> for trusted information about emergencies in B.C.</li>
                         <!-- /wp:list-item -->
                     </ul>
                     <!-- /wp:list -->

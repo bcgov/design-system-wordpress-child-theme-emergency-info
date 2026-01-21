@@ -35,7 +35,7 @@
                 <!-- /wp:areoi/icon -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontSize":"1rem"}}} -->
-                <p style="font-size:1rem">Follow <a href="https://twitter.com/EmergencyInfoBC" title="">@EmergencyInfoBC</a> on X (Twitter) for updates.</p>
+                <p style="font-size:1rem">Follow <a href="https://twitter.com/EmergencyInfoBC" title="">@EmergencyInfoBC</a> on X (Twitter) and <a href="https://www.facebook.com/EmergencyInfoBC" title="">Facebook</a> for updates.</p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
