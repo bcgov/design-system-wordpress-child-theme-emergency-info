@@ -32,7 +32,7 @@
                 <!-- /wp:social-links -->
 
                 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|background-white"},":hover":{"color":{"text":"var:preset|color|background-white"}}}}},"textColor":"background-white"} -->
-                <p class="has-background-white-color has-text-color has-link-color"><a href="https://www.facebook.com/EmergencyInfoBC" data-type="link" data-id="https://x.com/EmergencyInfoBC" target="_blank" rel="noreferrer noopener">Follow EmergencyInfoBC on X Facebook</a></p>
+                <p class="has-background-white-color has-text-color has-link-color"><a href="https://www.facebook.com/EmergencyInfoBC" data-type="link" data-id="https://x.com/EmergencyInfoBC" target="_blank" rel="noreferrer noopener">Follow EmergencyInfoBC on Facebook</a></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
