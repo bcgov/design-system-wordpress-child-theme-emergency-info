@@ -55,7 +55,7 @@
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="https://twitter.com/EmergencyInfoBC" title="">Follow @EmergencyInfoBC on X</a> (Twitter) for updates.</p>
+                    <p><a href="https://twitter.com/EmergencyInfoBC" title="">Follow @EmergencyInfoBC on X</a> (Twitter) or <a href="https://www.facebook.com/EmergencyInfoBC" title="">Facebook</a> for updates.</p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:heading {"className":"is-style-alphagov-heading is-style-heading-callout"} -->
