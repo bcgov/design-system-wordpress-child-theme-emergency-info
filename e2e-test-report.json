@@ -1,8 +1,8 @@
 {
   "reportFormat": "CTRF",
   "specVersion": "0.0.0",
-  "reportId": "267dc6af-f8ea-4187-ae17-8752c478bbcc",
-  "timestamp": "2026-01-22T23:32:48.358Z",
+  "reportId": "9103578b-70ac-49ec-92e0-83eda60baa83",
+  "timestamp": "2026-04-22T22:56:07.456Z",
   "generatedBy": "playwright-ctrf-json-reporter",
   "results": {
     "tool": {
@@ -15,205 +15,205 @@
       "pending": 0,
       "skipped": 0,
       "other": 0,
-      "start": 1769124771563,
-      "stop": 1769125060673,
+      "start": 1776898570246,
+      "stop": 1776898853794,
       "suites": 0
     },
     "tests": [
       {
         "name": "amber-alert",
         "status": "passed",
-        "duration": 8454
+        "duration": 11088
       },
       {
         "name": "bcgov-logo-dark",
         "status": "passed",
-        "duration": 6479
+        "duration": 6282
       },
       {
         "name": "disease-outbreak",
         "status": "passed",
-        "duration": 7449
+        "duration": 7397
       },
       {
         "name": "earthquake-catastrophic",
         "status": "passed",
-        "duration": 7566
+        "duration": 7101
       },
       {
         "name": "earthquake-minor",
         "status": "passed",
-        "duration": 6908
+        "duration": 6974
       },
       {
         "name": "emergency-alert",
         "status": "passed",
-        "duration": 7081
+        "duration": 6683
       },
       {
         "name": "event-header",
         "status": "passed",
-        "duration": 6403
+        "duration": 6318
       },
       {
         "name": "extreme-cold-warning",
         "status": "passed",
-        "duration": 7641
+        "duration": 7158
       },
       {
         "name": "extreme-heat-emergency",
         "status": "passed",
-        "duration": 8112
+        "duration": 7645
       },
       {
         "name": "extreme-heat",
         "status": "passed",
-        "duration": 7338
+        "duration": 7137
       },
       {
         "name": "flood-aggregated",
         "status": "passed",
-        "duration": 8491
+        "duration": 8275
       },
       {
         "name": "flood-coastal-emergency",
         "status": "passed",
-        "duration": 7274
+        "duration": 6941
       },
       {
         "name": "flood-evacuation",
         "status": "passed",
-        "duration": 7459
+        "duration": 7193
       },
       {
         "name": "flood-watch-warning",
         "status": "passed",
-        "duration": 7156
+        "duration": 7002
       },
       {
         "name": "footer",
         "status": "passed",
-        "duration": 6716
+        "duration": 6449
       },
       {
         "name": "front-page-cover",
         "status": "passed",
-        "duration": 6331
+        "duration": 6230
       },
       {
         "name": "generic-emergency",
         "status": "passed",
-        "duration": 7294
+        "duration": 7015
       },
       {
         "name": "hazardous-material-spill",
         "status": "passed",
-        "duration": 7677
+        "duration": 7258
       },
       {
         "name": "landslide",
         "status": "passed",
-        "duration": 7341
+        "duration": 7133
       },
       {
         "name": "page-about-us",
         "status": "passed",
-        "duration": 6436
+        "duration": 6261
       },
       {
         "name": "page-resources-local-authorities-first-nations",
         "status": "passed",
-        "duration": 7086
+        "duration": 6704
       },
       {
         "name": "page-resources-residents-visitors",
         "status": "passed",
-        "duration": 6717
+        "duration": 6750
       },
       {
         "name": "page-social-media-collection-notice",
         "status": "passed",
-        "duration": 6391
+        "duration": 6307
       },
       {
         "name": "page-territorial-acknowledgement",
         "status": "passed",
-        "duration": 6690
+        "duration": 6292
       },
       {
         "name": "power-outage",
         "status": "passed",
-        "duration": 7216
+        "duration": 7065
       },
       {
         "name": "police-incident",
         "status": "passed",
-        "duration": 7012
+        "duration": 7149
       },
       {
         "name": "severe-drought",
         "status": "passed",
-        "duration": 7252
+        "duration": 6798
       },
       {
         "name": "severe-weather-emergency",
         "status": "passed",
-        "duration": 7382
+        "duration": 7215
       },
       {
         "name": "special-public-avalanche-warning",
         "status": "passed",
-        "duration": 7082
+        "duration": 6948
       },
       {
         "name": "state-of-provincial-emergency",
         "status": "passed",
-        "duration": 7224
+        "duration": 6940
       },
       {
         "name": "taxonomy-hazard_type",
         "status": "passed",
-        "duration": 6694
+        "duration": 6810
       },
       {
         "name": "tornado",
         "status": "passed",
-        "duration": 7558
+        "duration": 7419
       },
       {
         "name": "tsunami-catastrophic",
         "status": "passed",
-        "duration": 8868
+        "duration": 8875
       },
       {
         "name": "tsunami",
         "status": "passed",
-        "duration": 8424
+        "duration": 8123
       },
       {
         "name": "volcano",
         "status": "passed",
-        "duration": 7260
+        "duration": 7106
       },
       {
         "name": "wildfire-aggregated",
         "status": "passed",
-        "duration": 9392
+        "duration": 8596
       },
       {
         "name": "wildfire-evacuation",
         "status": "passed",
-        "duration": 7424
+        "duration": 7333
       },
       {
         "name": "wildfire-provincial",
         "status": "passed",
-        "duration": 8310
+        "duration": 7900
       },
       {
         "name": "wildfire-regional",
         "status": "passed",
-        "duration": 8461
+        "duration": 8113
       }
     ]
   }
