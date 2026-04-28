@@ -223,16 +223,29 @@
         <!-- wp:areoi/column {"block_id":"3607b48e-8c01-4865-b1cf-351a7c7cc88d"} -->
         <!-- wp:group {"layout":{"type":"default"}} -->
         <div class="wp-block-group">
+
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":{"topLeft":"10px","topRight":"10px"}}},"backgroundColor":"support-gray-01","borderColor":"support-gray-02","layout":{"type":"default"}} -->
             <div class="wp-block-group has-border-color has-support-gray-02-border-color has-support-gray-01-background-color has-background" style="border-top-left-radius:10px;border-top-right-radius:10px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:areoi/icon {"block_id":"6a8b17f2-e7fb-4188-9ac9-3d74191864ab","style":"text-dark","size":"36","icon":"bi-exclamation-circle","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
-                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-exclamation-circle " style="font-size:36px"></i></div>
+                    <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","icon":"bi-geo-alt","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
+                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-geo-alt " style="font-size:24px"></i></div>
                     <!-- /wp:areoi/icon -->
 
-                    <!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-                    <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Issued by</h2>
+                    <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
+                    <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>Affected area:</strong></h2>
+                    <!-- /wp:heading -->
+                </div>
+                <!-- /wp:group -->
+
+                <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+                <div class="wp-block-group">
+                    <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","icon":"bi-megaphone","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
+                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-megaphone " style="font-size:24px"></i></div>
+                    <!-- /wp:areoi/icon -->
+
+                    <!-- wp:heading {"style":{"typography":{"fontSize":"1.38rem"}}} -->
+                    <h2 class="wp-block-heading" style="font-size:1.38rem"><strong>Issued by:</strong></h2>
                     <!-- /wp:heading -->
                 </div>
                 <!-- /wp:group -->
@@ -240,29 +253,25 @@
             <!-- /wp:group -->
 
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"},"radius":{"bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
-            <div class="wp-block-group has-white-background-color has-background" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-                <!-- wp:group {"className":"justify-content-between","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                <div class="wp-block-group justify-content-between" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-                    <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                    <div class="wp-block-group">
-                        <!-- wp:areoi/icon {"block_id":"a410e022-07a3-4fe0-97c9-1bc83807f3fe","style":"text-dark","icon":"bi-link"} -->
+            <div class="wp-block-group has-white-background-color has-background" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"className":"justify-content-between","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+                <div class="wp-block-group justify-content-between" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+                    <div class="wp-block-group"><!-- wp:areoi/icon {"block_id":"a410e022-07a3-4fe0-97c9-1bc83807f3fe","style":"text-dark","icon":"bi-link"} -->
                         <div class="wp-block-areoi-icon areoi-icon"><i class="text-dark bi-link " style="font-size:24px"></i></div>
                         <!-- /wp:areoi/icon -->
 
                         <!-- wp:paragraph -->
-                        <p><a href="http://cityx">Issuing Authority website</a></p>
+                        <p><a href="#example">City of Cityville website</a></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
 
                     <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                    <div class="wp-block-group">
-                        <!-- wp:areoi/icon {"block_id":"28ea8acf-dbd8-423a-9f66-49ae7ba5e88c","style":"text-dark","icon":"bi-facebook"} -->
+                    <div class="wp-block-group"><!-- wp:areoi/icon {"block_id":"28ea8acf-dbd8-423a-9f66-49ae7ba5e88c","style":"text-dark","icon":"bi-facebook"} -->
                         <div class="wp-block-areoi-icon areoi-icon"><i class="text-dark bi-facebook " style="font-size:24px"></i></div>
                         <!-- /wp:areoi/icon -->
 
                         <!-- wp:paragraph -->
-                        <p><a href="http://cityx">Issuing Authority Facebook</a></p>
+                        <p><a href="#example">City of Cityville Facebook</a></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -270,15 +279,13 @@
                 <!-- /wp:group -->
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-                    <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                    <div class="wp-block-group">
-                        <!-- wp:areoi/icon {"block_id":"28ea8acf-dbd8-423a-9f66-49ae7ba5e88c","style":"text-dark","icon":"bi-twitter"} -->
+                <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+                    <div class="wp-block-group"><!-- wp:areoi/icon {"block_id":"28ea8acf-dbd8-423a-9f66-49ae7ba5e88c","style":"text-dark","icon":"bi-twitter"} -->
                         <div class="wp-block-areoi-icon areoi-icon"><i class="text-dark bi-twitter " style="font-size:24px"></i></div>
                         <!-- /wp:areoi/icon -->
 
                         <!-- wp:paragraph -->
-                        <p><a href="http://cityx">Issuing Authority X</a></p>
+                        <p><a href="#example">City of Cityville X (Twitter)</a></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -295,55 +302,12 @@
             <div class="wp-block-group has-border-color has-support-gray-02-border-color has-support-gray-01-background-color has-background" style="border-top-left-radius:10px;border-top-right-radius:10px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                 <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","size":"36","icon":"bi-exclamation-circle","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
-                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-exclamation-circle " style="font-size:36px"></i></div>
+                    <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","size":"24","icon":"bi-exclamation-circle","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
+                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-exclamation-circle " style="font-size:24px"></i></div>
                     <!-- /wp:areoi/icon -->
 
-                    <!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-                    <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">
-                        Affected area</h2>
-                    <!-- /wp:heading -->
-                </div>
-                <!-- /wp:group -->
-            </div>
-            <!-- /wp:group -->
-
-            <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"},"radius":{"bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
-            <div class="wp-block-group has-white-background-color has-background" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-                <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                <div class="wp-block-group"><!-- wp:list -->
-                    <ul class="wp-block-list"><!-- wp:list-item -->
-                        <li>Item here</li>
-                        <!-- /wp:list-item -->
-
-                        <!-- wp:list-item -->
-                        <li>Item here</li>
-                        <!-- /wp:list-item -->
-
-                        <!-- wp:list-item -->
-                        <li>Item here </li>
-                        <!-- /wp:list-item -->
-                    </ul>
-                    <!-- /wp:list -->
-                </div>
-                <!-- /wp:group -->
-            </div>
-            <!-- /wp:group -->
-        </div>
-        <!-- /wp:group -->
-
-        <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"0"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"default"}} -->
-        <div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-            <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":{"topLeft":"10px","topRight":"10px"}}},"backgroundColor":"support-gray-01","borderColor":"support-gray-02","layout":{"type":"default"}} -->
-            <div class="wp-block-group has-border-color has-support-gray-02-border-color has-support-gray-01-background-color has-background" style="border-top-left-radius:10px;border-top-right-radius:10px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-                <!-- wp:group {"templateLock":false,"lock":{"move":false,"remove":false},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-                <div class="wp-block-group">
-                    <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","size":"36","icon":"bi-exclamation-circle","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
-                    <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-exclamation-circle " style="font-size:36px"></i></div>
-                    <!-- /wp:areoi/icon -->
-
-                    <!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.88rem"}}} -->
-                    <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.88rem">Shelter in Place Advisory</h2>
+                    <!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|20"}},"typography":{"fontSize":"1.38rem"}}} -->
+                    <h2 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--20);font-size:1.38rem">Issuance [Advisory/Alert/Order]</h2>
                     <!-- /wp:heading -->
                 </div>
                 <!-- /wp:group -->
@@ -359,7 +323,7 @@
                     <!-- /wp:areoi/icon -->
 
                     <!-- wp:paragraph -->
-                    <p><a href="#example">Shelter in Place Advisory (PDF/link)</a></p>
+                    <p><a href="#example">Issuance [Advisory/Alert/Order] (PDF/link)</a></p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
@@ -494,7 +458,7 @@
             </div>
             <!-- /wp:group -->
 
-            <!-- wp:group {"className":"align-items-start ","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+            <!-- wp:group {"className":"align-items-start ","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"},"hideBlock":true} -->
             <div class="wp-block-group align-items-start" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
                 <!-- wp:areoi/icon {"block_id":"39a66b63-5071-43b7-ab50-80429d5d6ab1","style":"text-dark","size":"36","icon":"bi-link","horizontal_align_xs":"text-center","lock":{"move":false,"remove":false}} -->
                 <div class="wp-block-areoi-icon areoi-icon text-center"><i class="text-dark bi-link " style="font-size:36px"></i></div>
@@ -509,9 +473,9 @@
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
                     <p>This BC Emergency Alert was broadcast on radio, TV and mobile devices.</p>
                     <!-- /wp:paragraph -->
-                </div>
+                    </div>
                 <!-- /wp:group -->
-            </div>
+                </div>
             <!-- /wp:group -->
 
             <!-- wp:group {"className":"align-items-start ","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
