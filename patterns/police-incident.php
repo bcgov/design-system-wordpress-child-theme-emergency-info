@@ -473,9 +473,9 @@
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
                     <p>This BC Emergency Alert was broadcast on radio, TV and mobile devices.</p>
                     <!-- /wp:paragraph -->
-                    </div>
-                <!-- /wp:group -->
                 </div>
+                <!-- /wp:group -->
+            </div>
             <!-- /wp:group -->
 
             <!-- wp:group {"className":"align-items-start ","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
