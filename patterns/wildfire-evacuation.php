@@ -52,40 +52,17 @@
         </div>
         <!-- /wp:group -->
 
-        <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"},"radius":{"bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
+        <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","right":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20"},"blockGap":"var:preset|spacing|20"},"border":{"right":{"color":"var:preset|color|support-gray-02"},"bottom":{"color":"var:preset|color|support-gray-02"},"left":{"color":"var:preset|color|support-gray-02"},"radius":{"bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"white","layout":{"type":"default"}} -->
         <div class="wp-block-group has-white-background-color has-background" style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-right-color:var(--wp--preset--color--support-gray-02);border-bottom-color:var(--wp--preset--color--support-gray-02);border-left-color:var(--wp--preset--color--support-gray-02);padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)">
-            <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-            <div class="wp-block-group"><!-- wp:paragraph -->
-                <p><strong>Fire name:</strong></p>
-                <!-- /wp:paragraph -->
-
-                <!-- wp:paragraph -->
-                <p><a href="https://wildfiresituation.nrs.gov.bc.ca/map" title="">[name]</a></p>
-                <!-- /wp:paragraph -->
-            </div>
-            <!-- /wp:group -->
-
-            <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"hideBlock":true} -->
-            <div class="wp-block-group"><!-- wp:paragraph -->
-                <p><strong>Fire location:</strong></p>
-                <!-- /wp:paragraph -->
-
-                <!-- wp:paragraph -->
-                <p>[location]</p>
-                <!-- /wp:paragraph -->
-            </div>
-            <!-- /wp:group -->
-
-            <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"hideBlock":true} -->
-            <div class="wp-block-group"><!-- wp:paragraph -->
-                <p><strong>Stage:</strong></p>
-                <!-- /wp:paragraph -->
-
-                <!-- wp:paragraph -->
-                <p>[stage]</p>
-                <!-- /wp:paragraph -->
-            </div>
-            <!-- /wp:group -->
+            <!-- wp:paragraph -->
+            <p><strong>Fire name:</strong> <a href="https://wildfiresituation.nrs.gov.bc.ca/map" title="">[name]</a></p>
+            <!-- /wp:paragraph -->
+            <!-- wp:paragraph {"hideBlock":true} -->
+            <p><strong>Fire location:</strong> [location]</p>
+            <!-- /wp:paragraph -->
+            <!-- wp:paragraph {"hideBlock":true} -->
+            <p><strong>Stage:</strong> [stage]</p>
+            <!-- /wp:paragraph -->
         </div>
         <!-- /wp:group -->
     </div>
