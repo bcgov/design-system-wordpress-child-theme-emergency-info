@@ -1567,7 +1567,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://www2.gov.bc.ca/gov/content/health/managing-your-health/mental-health-substance-use/virtual-mental-health-supports" title="">Mental Health Supports</a></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://helpstartshere.gov.bc.ca/mental-health" title="">Mental Health Supports</a></strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->

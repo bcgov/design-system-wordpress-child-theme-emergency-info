@@ -39,7 +39,7 @@
             <!-- /wp:areoi/icon -->
 
             <!-- wp:paragraph {"fontSize":"small"} -->
-            <p class="has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
+            <p class="has-small-font-size"><strong><a href="https://rcmp.ca/en/bc/news">BC RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:group -->
@@ -672,7 +672,7 @@
 
             <!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|20","top":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:paragraph -->
-                <p>Visit the <a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=23&amp;languageId=1&amp;contentId=4697" title="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=23&amp;languageId=1&amp;contentId=4697">BC RCMP Amber Alert Program website</a> to learn more.</p>
+                <p>Visit the <a href="https://rcmp.ca/en/bc/police-services/amber-alert-program" title="https://rcmp.ca/en/bc/police-services/amber-alert-program">BC RCMP Amber Alert Program website</a> to learn more.</p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
@@ -710,7 +710,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://rcmp.ca/en/bc/news">BC RCMP Newsroom</a></strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->

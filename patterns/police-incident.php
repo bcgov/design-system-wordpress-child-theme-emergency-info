@@ -31,7 +31,7 @@
             <!-- /wp:areoi/icon -->
 
             <!-- wp:paragraph {"fontSize":"small"} -->
-            <p class="has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
+            <p class="has-small-font-size"><strong><a href="https://rcmp.ca/en/bc/news">BC RCMP Newsroom</a></strong> OR [Issuing Authority Link] </p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:group -->
@@ -447,7 +447,7 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)">
                     <!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://bc-cb.rcmp-grc.gc.ca/ViewPage.action?siteNodeId=28&amp;languageId=1&amp;contentId=-1">BC RCMP Newsroom</a></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://rcmp.ca/en/bc/news">BC RCMP Newsroom</a></strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
