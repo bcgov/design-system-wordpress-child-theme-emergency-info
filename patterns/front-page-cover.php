@@ -8,8 +8,8 @@
  */
 ?>
 
-<!-- wp:group {"backgroundColor":"typography-primary-color","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-typography-primary-color-background-color has-background">
+<!-- wp:group {"backgroundColor":"typography-color-primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-typography-color-primary-background-color has-background">
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"0rem","bottom":"0rem","left":"0rem","right":"0rem"}},"dimensions":{"minHeight":"255px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
     <div class="wp-block-group" style="min-height:255px;padding-top:0rem;padding-right:0rem;padding-bottom:0rem;padding-left:0rem">
         <!-- wp:group {"className":"alignwide","style":{"border":{"radius":"8px","left":{"color":"#F8BA47","width":"8px"}},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"background-white","textColor":"text-color","layout":{"type":"constrained","contentSize":"400px"}} -->
