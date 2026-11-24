@@ -275,7 +275,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|20"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"small"} -->
-                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://weather.gc.ca/?province=bc&amp;zoom=5&amp;center=53.31882274,-125.06953164">Coastal Flooding (Storm Surge) Information</a></strong></h3>
+                    <h3 class="wp-block-heading has-small-font-size"><strong><a href="https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/hazards-emergencies/storm-surge/how-prepare.html">Coastal Flooding (Storm Surge) Information</a></strong></h3>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"lock":{"move":false,"remove":false}} -->
